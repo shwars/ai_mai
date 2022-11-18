@@ -1,0 +1,1310 @@
+pclass,survived,name,sex,age,sibsp,parch,ticket,fare,cabin,embarked,boat,body,home.dest
+first,yes,Allen. Miss. Elisabeth Walton,female,29.0,0,0,24160,211.3375,B5,S,2,,St Louis. MO
+first,yes,Allison. Master. Hudson Trevor,male,0.9167,1,2,113781,151.55,C22 C26,S,11,,Montreal. PQ / Chesterville. ON
+first,no,Allison. Miss. Helen Loraine,female,2.0,1,2,113781,151.55,C22 C26,S,,,Montreal. PQ / Chesterville. ON
+first,no,Allison. Mr. Hudson Joshua Creighton,male,30.0,1,2,113781,151.55,C22 C26,S,,135.0,Montreal. PQ / Chesterville. ON
+first,no,Allison. Mrs. Hudson J C (Bessie Waldo Daniels),female,25.0,1,2,113781,151.55,C22 C26,S,,,Montreal. PQ / Chesterville. ON
+first,yes,Anderson. Mr. Harry,male,48.0,0,0,19952,26.55,E12,S,3,,New York. NY
+first,yes,Andrews. Miss. Kornelia Theodosia,female,63.0,1,0,13502,77.9583,D7,S,10,,Hudson. NY
+first,no,Andrews. Mr. Thomas Jr,male,39.0,0,0,112050,0.0,A36,S,,,Belfast. NI
+first,yes,Appleton. Mrs. Edward Dale (Charlotte Lamson),female,53.0,2,0,11769,51.4792,C101,S,D,,Bayside. Queens. NY
+first,no,Artagaveytia. Mr. Ramon,male,71.0,0,0,PC 17609,49.5042,,C,,22.0,Montevideo. Uruguay
+first,no,Astor. Col. John Jacob,male,47.0,1,0,PC 17757,227.525,C62 C64,C,,124.0,New York. NY
+first,yes,Astor. Mrs. John Jacob (Madeleine Talmadge Force),female,18.0,1,0,PC 17757,227.525,C62 C64,C,4,,New York. NY
+first,yes,Aubart. Mme. Leontine Pauline,female,24.0,0,0,PC 17477,69.3,B35,C,9,,Paris. France
+first,yes,Barber. Miss. Ellen Nellie Harber.,female,26.0,0,0,19877,78.85,,S,6,,
+first,yes,Barkworth. Mr. Algernon Henry Wilson,male,80.0,0,0,27042,30.0,A23,S,B,,Hessle. Yorks
+first,no,Baumann. Mr. John D,male,,0,0,PC 17318,25.925,,S,,,New York. NY
+first,no,Baxter. Mr. Quigg Edmond,male,24.0,0,1,PC 17558,247.5208,B58 B60,C,,,Montreal. PQ
+first,yes,Baxter. Mrs. James (Helene DeLaudeniere Chaput),female,50.0,0,1,PC 17558,247.5208,B58 B60,C,6,,Montreal. PQ
+first,yes,Bazzani. Miss. Albina,female,32.0,0,0,11813,76.2917,D15,C,8,,
+first,no,Beattie. Mr. Thomson,male,36.0,0,0,13050,75.2417,C6,C,A,,Winnipeg. MN
+first,yes,Beckwith. Mr. Richard Leonard,male,37.0,1,1,11751,52.5542,D35,S,5,,New York. NY
+first,yes,Beckwith. Mrs. Richard Leonard (Sallie Monypeny),female,47.0,1,1,11751,52.5542,D35,S,5,,New York. NY
+first,yes,Behr. Mr. Karl Howell,male,26.0,0,0,111369,30.0,C148,C,5,,New York. NY
+first,yes,Bidois. Miss. Rosalie,female,42.0,0,0,PC 17757,227.525,,C,4,,
+first,yes,Bird. Miss. Ellen,female,29.0,0,0,PC 17483,221.7792,C97,S,8,,
+first,no,Birnbaum. Mr. Jakob,male,25.0,0,0,13905,26.0,,C,,148.0,San Francisco. CA
+first,yes,Bishop. Mr. Dickinson H,male,25.0,1,0,11967,91.0792,B49,C,7,,Dowagiac. MI
+first,yes,Bishop. Mrs. Dickinson H (Helen Walton),female,19.0,1,0,11967,91.0792,B49,C,7,,Dowagiac. MI
+first,yes,Bissette. Miss. Amelia,female,35.0,0,0,PC 17760,135.6333,C99,S,8,,
+first,yes,Bjornstrom-Steffansson. Mr. Mauritz Hakan,male,28.0,0,0,110564,26.55,C52,S,D,,Stockholm. Sweden / Washington. DC
+first,no,Blackwell. Mr. Stephen Weart,male,45.0,0,0,113784,35.5,T,S,,,Trenton. NJ
+first,yes,Blank. Mr. Henry,male,40.0,0,0,112277,31.0,A31,C,7,,Glen Ridge. NJ
+first,yes,Bonnell. Miss. Caroline,female,30.0,0,0,36928,164.8667,C7,S,8,,Youngstown. OH
+first,yes,Bonnell. Miss. Elizabeth,female,58.0,0,0,113783,26.55,C103,S,8,,Birkdale. England Cleveland. Ohio
+first,no,Borebank. Mr. John James,male,42.0,0,0,110489,26.55,D22,S,,,London / Winnipeg. MB
+first,yes,Bowen. Miss. Grace Scott,female,45.0,0,0,PC 17608,262.375,,C,4,,Cooperstown. NY
+first,yes,Bowerman. Miss. Elsie Edith,female,22.0,0,1,113505,55.0,E33,S,6,,St Leonards-on-Sea. England Ohio
+first,yes,Bradley. Mr. George,male,,0,0,111427,26.55,,S,9,,Los Angeles. CA
+first,no,Brady. Mr. John Bertram,male,41.0,0,0,113054,30.5,A21,S,,,Pomeroy. WA
+first,no,Brandeis. Mr. Emil,male,48.0,0,0,PC 17591,50.4958,B10,C,,208.0,Omaha. NE
+first,no,Brewe. Dr. Arthur Jackson,male,,0,0,112379,39.6,,C,,,Philadelphia. PA
+first,yes,Brown. Mrs. James Joseph (Margaret Tobin),female,44.0,0,0,PC 17610,27.7208,B4,C,6,,Denver. CO
+first,yes,Brown. Mrs. John Murray (Caroline Lane Lamson),female,59.0,2,0,11769,51.4792,C101,S,D,,Belmont. MA
+first,yes,Bucknell. Mrs. William Robert (Emma Eliza Ward),female,60.0,0,0,11813,76.2917,D15,C,8,,Philadelphia. PA
+first,yes,Burns. Miss. Elizabeth Margaret,female,41.0,0,0,16966,134.5,E40,C,3,,
+first,no,Butt. Major. Archibald Willingham,male,45.0,0,0,113050,26.55,B38,S,,,Washington. DC
+first,no,Cairns. Mr. Alexander,male,,0,0,113798,31.0,,S,,,
+first,yes,Calderhead. Mr. Edward Pennington,male,42.0,0,0,PC 17476,26.2875,E24,S,5,,New York. NY
+first,yes,Candee. Mrs. Edward (Helen Churchill Hungerford),female,53.0,0,0,PC 17606,27.4458,,C,6,,Washington. DC
+first,yes,Cardeza. Mr. Thomas Drake Martinez,male,36.0,0,1,PC 17755,512.3292,B51 B53 B55,C,3,,Austria-Hungary / Germantown. Philadelphia. PA
+first,yes,Cardeza. Mrs. James Warburton Martinez (Charlotte Wardle Drake),female,58.0,0,1,PC 17755,512.3292,B51 B53 B55,C,3,,Germantown. Philadelphia. PA
+first,no,Carlsson. Mr. Frans Olof,male,33.0,0,0,695,5.0,B51 B53 B55,S,,,New York. NY
+first,no,Carrau. Mr. Francisco M,male,28.0,0,0,113059,47.1,,S,,,Montevideo. Uruguay
+first,no,Carrau. Mr. Jose Pedro,male,17.0,0,0,113059,47.1,,S,,,Montevideo. Uruguay
+first,yes,Carter. Master. William Thornton II,male,11.0,1,2,113760,120.0,B96 B98,S,4,,Bryn Mawr. PA
+first,yes,Carter. Miss. Lucile Polk,female,14.0,1,2,113760,120.0,B96 B98,S,4,,Bryn Mawr. PA
+first,yes,Carter. Mr. William Ernest,male,36.0,1,2,113760,120.0,B96 B98,S,C,,Bryn Mawr. PA
+first,yes,Carter. Mrs. William Ernest (Lucile Polk),female,36.0,1,2,113760,120.0,B96 B98,S,4,,Bryn Mawr. PA
+first,no,Case. Mr. Howard Brown,male,49.0,0,0,19924,26.0,,S,,,Ascot. Berkshire / Rochester. NY
+first,yes,Cassebeer. Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick),female,,0,0,17770,27.7208,,C,5,,New York. NY
+first,no,Cavendish. Mr. Tyrell William,male,36.0,1,0,19877,78.85,C46,S,,172.0,Little Onn Hall. Staffs
+first,yes,Cavendish. Mrs. Tyrell William (Julia Florence Siegel),female,76.0,1,0,19877,78.85,C46,S,6,,Little Onn Hall. Staffs
+first,no,Chaffee. Mr. Herbert Fuller,male,46.0,1,0,W.E.P. 5734,61.175,E31,S,,,Amenia. ND
+first,yes,Chaffee. Mrs. Herbert Fuller (Carrie Constance Toogood),female,47.0,1,0,W.E.P. 5734,61.175,E31,S,4,,Amenia. ND
+first,yes,Chambers. Mr. Norman Campbell,male,27.0,1,0,113806,53.1,E8,S,5,,New York. NY / Ithaca. NY
+first,yes,Chambers. Mrs. Norman Campbell (Bertha Griggs),female,33.0,1,0,113806,53.1,E8,S,5,,New York. NY / Ithaca. NY
+first,yes,Chaudanson. Miss. Victorine,female,36.0,0,0,PC 17608,262.375,B61,C,4,,
+first,yes,Cherry. Miss. Gladys,female,30.0,0,0,110152,86.5,B77,S,8,,London. England
+first,yes,Chevre. Mr. Paul Romaine,male,45.0,0,0,PC 17594,29.7,A9,C,7,,Paris. France
+first,yes,Chibnall. Mrs. (Edith Martha Bowerman),female,,0,1,113505,55.0,E33,S,6,,St Leonards-on-Sea. England Ohio
+first,no,Chisholm. Mr. Roderick Robert Crispin,male,,0,0,112051,0.0,,S,,,Liverpool. England / Belfast
+first,no,Clark. Mr. Walter Miller,male,27.0,1,0,13508,136.7792,C89,C,,,Los Angeles. CA
+first,yes,Clark. Mrs. Walter Miller (Virginia McDowell),female,26.0,1,0,13508,136.7792,C89,C,4,,Los Angeles. CA
+first,yes,Cleaver. Miss. Alice,female,22.0,0,0,113781,151.55,,S,11,,
+first,no,Clifford. Mr. George Quincy,male,,0,0,110465,52.0,A14,S,,,Stoughton. MA
+first,no,Colley. Mr. Edward Pomeroy,male,47.0,0,0,5727,25.5875,E58,S,,,Victoria. BC
+first,yes,Compton. Miss. Sara Rebecca,female,39.0,1,1,PC 17756,83.1583,E49,C,14,,Lakewood. NJ
+first,no,Compton. Mr. Alexander Taylor Jr,male,37.0,1,1,PC 17756,83.1583,E52,C,,,Lakewood. NJ
+first,yes,Compton. Mrs. Alexander Taylor (Mary Eliza Ingersoll),female,64.0,0,2,PC 17756,83.1583,E45,C,14,,Lakewood. NJ
+first,yes,Cornell. Mrs. Robert Clifford (Malvina Helen Lamson),female,55.0,2,0,11770,25.7,C101,S,2,,New York. NY
+first,no,Crafton. Mr. John Bertram,male,,0,0,113791,26.55,,S,,,Roachdale. IN
+first,no,Crosby. Capt. Edward Gifford,male,70.0,1,1,WE/P 5735,71.0,B22,S,,269.0,Milwaukee. WI
+first,yes,Crosby. Miss. Harriet R,female,36.0,0,2,WE/P 5735,71.0,B22,S,7,,Milwaukee. WI
+first,yes,Crosby. Mrs. Edward Gifford (Catherine Elizabeth Halstead),female,64.0,1,1,112901,26.55,B26,S,7,,Milwaukee. WI
+first,no,Cumings. Mr. John Bradley,male,39.0,1,0,PC 17599,71.2833,C85,C,,,New York. NY
+first,yes,Cumings. Mrs. John Bradley (Florence Briggs Thayer),female,38.0,1,0,PC 17599,71.2833,C85,C,4,,New York. NY
+first,yes,Daly. Mr. Peter Denis ,male,51.0,0,0,113055,26.55,E17,S,5 9,,Lima. Peru
+first,yes,Daniel. Mr. Robert Williams,male,27.0,0,0,113804,30.5,,S,3,,Philadelphia. PA
+first,yes,Daniels. Miss. Sarah,female,33.0,0,0,113781,151.55,,S,8,,
+first,no,Davidson. Mr. Thornton,male,31.0,1,0,F.C. 12750,52.0,B71,S,,,Montreal. PQ
+first,yes,Davidson. Mrs. Thornton (Orian Hays),female,27.0,1,2,F.C. 12750,52.0,B71,S,3,,Montreal. PQ
+first,yes,Dick. Mr. Albert Adrian,male,31.0,1,0,17474,57.0,B20,S,3,,Calgary. AB
+first,yes,Dick. Mrs. Albert Adrian (Vera Gillespie),female,17.0,1,0,17474,57.0,B20,S,3,,Calgary. AB
+first,yes,Dodge. Dr. Washington,male,53.0,1,1,33638,81.8583,A34,S,13,,San Francisco. CA
+first,yes,Dodge. Master. Washington,male,4.0,0,2,33638,81.8583,A34,S,5,,San Francisco. CA
+first,yes,Dodge. Mrs. Washington (Ruth Vidaver),female,54.0,1,1,33638,81.8583,A34,S,5,,San Francisco. CA
+first,no,Douglas. Mr. Walter Donald,male,50.0,1,0,PC 17761,106.425,C86,C,,62.0,Deephaven. MN / Cedar Rapids. IA
+first,yes,Douglas. Mrs. Frederick Charles (Mary Helene Baxter),female,27.0,1,1,PC 17558,247.5208,B58 B60,C,6,,Montreal. PQ
+first,yes,Douglas. Mrs. Walter Donald (Mahala Dutton),female,48.0,1,0,PC 17761,106.425,C86,C,2,,Deephaven. MN / Cedar Rapids. IA
+first,yes,Duff Gordon. Lady. (Lucille Christiana Sutherland),female,48.0,1,0,11755,39.6,A16,C,1,,London / Paris
+first,yes,Duff Gordon. Sir. Cosmo Edmund (Mr Morgan),male,49.0,1,0,PC 17485,56.9292,A20,C,1,,London / Paris
+first,no,Dulles. Mr. William Crothers,male,39.0,0,0,PC 17580,29.7,A18,C,,133.0,Philadelphia. PA
+first,yes,Earnshaw. Mrs. Boulton (Olive Potter),female,23.0,0,1,11767,83.1583,C54,C,7,,Mt Airy. Philadelphia. PA
+first,yes,Endres. Miss. Caroline Louise,female,38.0,0,0,PC 17757,227.525,C45,C,4,,New York. NY
+first,yes,Eustis. Miss. Elizabeth Mussey,female,54.0,1,0,36947,78.2667,D20,C,4,,Brookline. MA
+first,no,Evans. Miss. Edith Corse,female,36.0,0,0,PC 17531,31.6792,A29,C,,,New York. NY
+first,no,Farthing. Mr. John,male,,0,0,PC 17483,221.7792,C95,S,,,
+first,yes,Flegenheim. Mrs. Alfred (Antoinette),female,,0,0,PC 17598,31.6833,,S,7,,New York. NY
+first,yes,Fleming. Miss. Margaret,female,,0,0,17421,110.8833,,C,4,,
+first,yes,Flynn. Mr. John Irwin,male,36.0,0,0,PC 17474,26.3875,E25,S,5,,Brooklyn. NY
+first,no,Foreman. Mr. Benjamin Laventall,male,30.0,0,0,113051,27.75,C111,C,,,New York. NY
+first,yes,Fortune. Miss. Alice Elizabeth,female,24.0,3,2,19950,263.0,C23 C25 C27,S,10,,Winnipeg. MB
+first,yes,Fortune. Miss. Ethel Flora,female,28.0,3,2,19950,263.0,C23 C25 C27,S,10,,Winnipeg. MB
+first,yes,Fortune. Miss. Mabel Helen,female,23.0,3,2,19950,263.0,C23 C25 C27,S,10,,Winnipeg. MB
+first,no,Fortune. Mr. Charles Alexander,male,19.0,3,2,19950,263.0,C23 C25 C27,S,,,Winnipeg. MB
+first,no,Fortune. Mr. Mark,male,64.0,1,4,19950,263.0,C23 C25 C27,S,,,Winnipeg. MB
+first,yes,Fortune. Mrs. Mark (Mary McDougald),female,60.0,1,4,19950,263.0,C23 C25 C27,S,10,,Winnipeg. MB
+first,yes,Francatelli. Miss. Laura Mabel,female,30.0,0,0,PC 17485,56.9292,E36,C,1,,
+first,no,Franklin. Mr. Thomas Parham,male,,0,0,113778,26.55,D34,S,,,Westcliff-on-Sea. Essex
+first,yes,Frauenthal. Dr. Henry William,male,50.0,2,0,PC 17611,133.65,,S,5,,New York. NY
+first,yes,Frauenthal. Mr. Isaac Gerald,male,43.0,1,0,17765,27.7208,D40,C,5,,New York. NY
+first,yes,Frauenthal. Mrs. Henry William (Clara Heinsheimer),female,,1,0,PC 17611,133.65,,S,5,,New York. NY
+first,yes,Frolicher. Miss. Hedwig Margaritha,female,22.0,0,2,13568,49.5,B39,C,5,,Zurich. Switzerland
+first,yes,Frolicher-Stehli. Mr. Maxmillian,male,60.0,1,1,13567,79.2,B41,C,5,,Zurich. Switzerland
+first,yes,Frolicher-Stehli. Mrs. Maxmillian (Margaretha Emerentia Stehli),female,48.0,1,1,13567,79.2,B41,C,5,,Zurich. Switzerland
+first,no,Fry. Mr. Richard,male,,0,0,112058,0.0,B102,S,,,
+first,no,Futrelle. Mr. Jacques Heath,male,37.0,1,0,113803,53.1,C123,S,,,Scituate. MA
+first,yes,Futrelle. Mrs. Jacques Heath (Lily May Peel),female,35.0,1,0,113803,53.1,C123,S,D,,Scituate. MA
+first,no,Gee. Mr. Arthur H,male,47.0,0,0,111320,38.5,E63,S,,275.0,St Annes-on-Sea. Lancashire
+first,yes,Geiger. Miss. Amalie,female,35.0,0,0,113503,211.5,C130,C,4,,
+first,yes,Gibson. Miss. Dorothy Winifred,female,22.0,0,1,112378,59.4,,C,7,,New York. NY
+first,yes,Gibson. Mrs. Leonard (Pauline C Boeson),female,45.0,0,1,112378,59.4,,C,7,,New York. NY
+first,no,Giglio. Mr. Victor,male,24.0,0,0,PC 17593,79.2,B86,C,,,
+first,yes,Goldenberg. Mr. Samuel L,male,49.0,1,0,17453,89.1042,C92,C,5,,Paris. France / New York. NY
+first,yes,Goldenberg. Mrs. Samuel L (Edwiga Grabowska),female,,1,0,17453,89.1042,C92,C,5,,Paris. France / New York. NY
+first,no,Goldschmidt. Mr. George B,male,71.0,0,0,PC 17754,34.6542,A5,C,,,New York. NY
+first,yes,Gracie. Col. Archibald IV,male,53.0,0,0,113780,28.5,C51,C,B,,Washington. DC
+first,yes,Graham. Miss. Margaret Edith,female,19.0,0,0,112053,30.0,B42,S,3,,Greenwich. CT
+first,no,Graham. Mr. George Edward,male,38.0,0,1,PC 17582,153.4625,C91,S,,147.0,Winnipeg. MB
+first,yes,Graham. Mrs. William Thompson (Edith Junkins),female,58.0,0,1,PC 17582,153.4625,C125,S,3,,Greenwich. CT
+first,yes,Greenfield. Mr. William Bertram,male,23.0,0,1,PC 17759,63.3583,D10 D12,C,7,,New York. NY
+first,yes,Greenfield. Mrs. Leo David (Blanche Strouse),female,45.0,0,1,PC 17759,63.3583,D10 D12,C,7,,New York. NY
+first,no,Guggenheim. Mr. Benjamin,male,46.0,0,0,PC 17593,79.2,B82 B84,C,,,New York. NY
+first,yes,Harder. Mr. George Achilles,male,25.0,1,0,11765,55.4417,E50,C,5,,Brooklyn. NY
+first,yes,Harder. Mrs. George Achilles (Dorothy Annan),female,25.0,1,0,11765,55.4417,E50,C,5,,Brooklyn. NY
+first,yes,Harper. Mr. Henry Sleeper,male,48.0,1,0,PC 17572,76.7292,D33,C,3,,New York. NY
+first,yes,Harper. Mrs. Henry Sleeper (Myna Haxtun),female,49.0,1,0,PC 17572,76.7292,D33,C,3,,New York. NY
+first,no,Harrington. Mr. Charles H,male,,0,0,113796,42.4,,S,,,
+first,no,Harris. Mr. Henry Birkhardt,male,45.0,1,0,36973,83.475,C83,S,,,New York. NY
+first,yes,Harris. Mrs. Henry Birkhardt (Irene Wallach),female,35.0,1,0,36973,83.475,C83,S,D,,New York. NY
+first,no,Harrison. Mr. William,male,40.0,0,0,112059,0.0,B94,S,,110.0,
+first,yes,Hassab. Mr. Hammad,male,27.0,0,0,PC 17572,76.7292,D49,C,3,,
+first,yes,Hawksford. Mr. Walter James,male,,0,0,16988,30.0,D45,S,3,,Kingston. Surrey
+first,yes,Hays. Miss. Margaret Bechstein,female,24.0,0,0,11767,83.1583,C54,C,7,,New York. NY
+first,no,Hays. Mr. Charles Melville,male,55.0,1,1,12749,93.5,B69,S,,307.0,Montreal. PQ
+first,yes,Hays. Mrs. Charles Melville (Clara Jennings Gregg),female,52.0,1,1,12749,93.5,B69,S,3,,Montreal. PQ
+first,no,Head. Mr. Christopher,male,42.0,0,0,113038,42.5,B11,S,,,London / Middlesex
+first,no,Hilliard. Mr. Herbert Henry,male,,0,0,17463,51.8625,E46,S,,,Brighton. MA
+first,no,Hipkins. Mr. William Edward,male,55.0,0,0,680,50.0,C39,S,,,London / Birmingham
+first,yes,Hippach. Miss. Jean Gertrude,female,16.0,0,1,111361,57.9792,B18,C,4,,Chicago. IL
+first,yes,Hippach. Mrs. Louis Albert (Ida Sophia Fischer),female,44.0,0,1,111361,57.9792,B18,C,4,,Chicago. IL
+first,yes,Hogeboom. Mrs. John C (Anna Andrews),female,51.0,1,0,13502,77.9583,D11,S,10,,Hudson. NY
+first,no,Holverson. Mr. Alexander Oskar,male,42.0,1,0,113789,52.0,,S,,38.0,New York. NY
+first,yes,Holverson. Mrs. Alexander Oskar (Mary Aline Towner),female,35.0,1,0,113789,52.0,,S,8,,New York. NY
+first,yes,Homer. Mr. Harry,male,35.0,0,0,111426,26.55,,C,15,,Indianapolis. IN
+first,yes,Hoyt. Mr. Frederick Maxfield,male,38.0,1,0,19943,90.0,C93,S,D,,New York. NY /  Stamford CT
+first,no,Hoyt. Mr. William Fisher,male,,0,0,PC 17600,30.6958,,C,14,,New York. NY
+first,yes,Hoyt. Mrs. Frederick Maxfield (Jane Anne Forby),female,35.0,1,0,19943,90.0,C93,S,D,,New York. NY /  Stamford CT
+first,yes,Icard. Miss. Amelie,female,38.0,0,0,113572,80.0,B28,,6,,
+first,no,Isham. Miss. Ann Elizabeth,female,50.0,0,0,PC 17595,28.7125,C49,C,,,Paris. France New York. NY
+first,yes,Ismay. Mr. Joseph Bruce,male,49.0,0,0,112058,0.0,B52 B54 B56,S,C,,Liverpool
+first,no,Jones. Mr. Charles Cresson,male,46.0,0,0,694,26.0,,S,,80.0,Bennington. VT
+first,no,Julian. Mr. Henry Forbes,male,50.0,0,0,113044,26.0,E60,S,,,London
+first,no,Keeping. Mr. Edwin,male,32.5,0,0,113503,211.5,C132,C,,45.0,
+first,no,Kent. Mr. Edward Austin,male,58.0,0,0,11771,29.7,B37,C,,258.0,Buffalo. NY
+first,no,Kenyon. Mr. Frederick R,male,41.0,1,0,17464,51.8625,D21,S,,,Southington / Noank. CT
+first,yes,Kenyon. Mrs. Frederick R (Marion),female,,1,0,17464,51.8625,D21,S,8,,Southington / Noank. CT
+first,yes,Kimball. Mr. Edwin Nelson Jr,male,42.0,1,0,11753,52.5542,D19,S,5,,Boston. MA
+first,yes,Kimball. Mrs. Edwin Nelson Jr (Gertrude Parsons),female,45.0,1,0,11753,52.5542,D19,S,5,,Boston. MA
+first,no,Klaber. Mr. Herman,male,,0,0,113028,26.55,C124,S,,,Portland. OR
+first,yes,Kreuchen. Miss. Emilie,female,39.0,0,0,24160,211.3375,,S,2,,
+first,yes,Leader. Dr. Alice (Farnham),female,49.0,0,0,17465,25.9292,D17,S,8,,New York. NY
+first,yes,LeRoy. Miss. Bertha,female,30.0,0,0,PC 17761,106.425,,C,2,,
+first,yes,Lesurer. Mr. Gustave J,male,35.0,0,0,PC 17755,512.3292,B101,C,3,,
+first,no,Lewy. Mr. Ervin G,male,,0,0,PC 17612,27.7208,,C,,,Chicago. IL
+first,no,Lindeberg-Lind. Mr. Erik Gustaf (Mr Edward Lingrey),male,42.0,0,0,17475,26.55,,S,,,Stockholm. Sweden
+first,yes,Lindstrom. Mrs. Carl Johan (Sigrid Posse),female,55.0,0,0,112377,27.7208,,C,6,,Stockholm. Sweden
+first,yes,Lines. Miss. Mary Conover,female,16.0,0,1,PC 17592,39.4,D28,S,9,,Paris. France
+first,yes,Lines. Mrs. Ernest H (Elizabeth Lindsey James),female,51.0,0,1,PC 17592,39.4,D28,S,9,,Paris. France
+first,no,Long. Mr. Milton Clyde,male,29.0,0,0,113501,30.0,D6,S,,126.0,Springfield. MA
+first,yes,Longley. Miss. Gretchen Fiske,female,21.0,0,0,13502,77.9583,D9,S,10,,Hudson. NY
+first,no,Loring. Mr. Joseph Holland,male,30.0,0,0,113801,45.5,,S,,,London / New York. NY
+first,yes,Lurette. Miss. Elise,female,58.0,0,0,PC 17569,146.5208,B80,C,,,
+first,yes,Madill. Miss. Georgette Alexandra,female,15.0,0,1,24160,211.3375,B5,S,2,,St Louis. MO
+first,no,Maguire. Mr. John Edward,male,30.0,0,0,110469,26.0,C106,S,,,Brockton. MA
+first,yes,Maioni. Miss. Roberta,female,16.0,0,0,110152,86.5,B79,S,8,,
+first,yes,Marechal. Mr. Pierre,male,,0,0,11774,29.7,C47,C,7,,Paris. France
+first,no,Marvin. Mr. Daniel Warner,male,19.0,1,0,113773,53.1,D30,S,,,New York. NY
+first,yes,Marvin. Mrs. Daniel Warner (Mary Graham Carmichael Farquarson),female,18.0,1,0,113773,53.1,D30,S,10,,New York. NY
+first,yes,Mayne. Mlle. Berthe Antonine (Mrs de Villiers),female,24.0,0,0,PC 17482,49.5042,C90,C,6,,Belgium  Montreal. PQ
+first,no,McCaffry. Mr. Thomas Francis,male,46.0,0,0,13050,75.2417,C6,C,,292.0,Vancouver. BC
+first,no,McCarthy. Mr. Timothy J,male,54.0,0,0,17463,51.8625,E46,S,,175.0,Dorchester. MA
+first,yes,McGough. Mr. James Robert,male,36.0,0,0,PC 17473,26.2875,E25,S,7,,Philadelphia. PA
+first,no,Meyer. Mr. Edgar Joseph,male,28.0,1,0,PC 17604,82.1708,,C,,,New York. NY
+first,yes,Meyer. Mrs. Edgar Joseph (Leila Saks),female,,1,0,PC 17604,82.1708,,C,6,,New York. NY
+first,no,Millet. Mr. Francis Davis,male,65.0,0,0,13509,26.55,E38,S,,249.0,East Bridgewater. MA
+first,no,Minahan. Dr. William Edward,male,44.0,2,0,19928,90.0,C78,Q,,230.0,Fond du Lac. WI
+first,yes,Minahan. Miss. Daisy E,female,33.0,1,0,19928,90.0,C78,Q,14,,Green Bay. WI
+first,yes,Minahan. Mrs. William Edward (Lillian E Thorpe),female,37.0,1,0,19928,90.0,C78,Q,14,,Fond du Lac. WI
+first,yes,Mock. Mr. Philipp Edmund,male,30.0,1,0,13236,57.75,C78,C,11,,New York. NY
+first,no,Molson. Mr. Harry Markland,male,55.0,0,0,113787,30.5,C30,S,,,Montreal. PQ
+first,no,Moore. Mr. Clarence Bloomfield,male,47.0,0,0,113796,42.4,,S,,,Washington. DC
+first,no,Natsch. Mr. Charles H,male,37.0,0,1,PC 17596,29.7,C118,C,,,Brooklyn. NY
+first,yes,Newell. Miss. Madeleine,female,31.0,1,0,35273,113.275,D36,C,6,,Lexington. MA
+first,yes,Newell. Miss. Marjorie,female,23.0,1,0,35273,113.275,D36,C,6,,Lexington. MA
+first,no,Newell. Mr. Arthur Webster,male,58.0,0,2,35273,113.275,D48,C,,122.0,Lexington. MA
+first,yes,Newsom. Miss. Helen Monypeny,female,19.0,0,2,11752,26.2833,D47,S,5,,New York. NY
+first,no,Nicholson. Mr. Arthur Ernest,male,64.0,0,0,693,26.0,,S,,263.0,Isle of Wight. England
+first,yes,Oliva y Ocana. Dona. Fermina,female,39.0,0,0,PC 17758,108.9,C105,C,8,,
+first,yes,Omont. Mr. Alfred Fernand,male,,0,0,F.C. 12998,25.7417,,C,7,,Paris. France
+first,yes,Ostby. Miss. Helene Ragnhild,female,22.0,0,1,113509,61.9792,B36,C,5,,Providence. RI
+first,no,Ostby. Mr. Engelhart Cornelius,male,65.0,0,1,113509,61.9792,B30,C,,234.0,Providence. RI
+first,no,Ovies y Rodriguez. Mr. Servando,male,28.5,0,0,PC 17562,27.7208,D43,C,,189.0,?Havana. Cuba
+first,no,Parr. Mr. William Henry Marsh,male,,0,0,112052,0.0,,S,,,Belfast
+first,no,Partner. Mr. Austen,male,45.5,0,0,113043,28.5,C124,S,,166.0,Surbiton Hill. Surrey
+first,no,Payne. Mr. Vivian Ponsonby,male,23.0,0,0,12749,93.5,B24,S,,,Montreal. PQ
+first,no,Pears. Mr. Thomas Clinton,male,29.0,1,0,113776,66.6,C2,S,,,Isleworth. England
+first,yes,Pears. Mrs. Thomas (Edith Wearne),female,22.0,1,0,113776,66.6,C2,S,8,,Isleworth. England
+first,no,Penasco y Castellana. Mr. Victor de Satode,male,18.0,1,0,PC 17758,108.9,C65,C,,,Madrid. Spain
+first,yes,Penasco y Castellana. Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo),female,17.0,1,0,PC 17758,108.9,C65,C,8,,Madrid. Spain
+first,yes,Perreault. Miss. Anne,female,30.0,0,0,12749,93.5,B73,S,3,,
+first,yes,Peuchen. Major. Arthur Godfrey,male,52.0,0,0,113786,30.5,C104,S,6,,Toronto. ON
+first,no,Porter. Mr. Walter Chamberlain,male,47.0,0,0,110465,52.0,C110,S,,207.0,Worcester. MA
+first,yes,Potter. Mrs. Thomas Jr (Lily Alexenia Wilson),female,56.0,0,1,11767,83.1583,C50,C,7,,Mt Airy. Philadelphia. PA
+first,no,Reuchlin. Jonkheer. John George,male,38.0,0,0,19972,0.0,,S,,,Rotterdam. Netherlands
+first,yes,Rheims. Mr. George Alexander Lucien,male,,0,0,PC 17607,39.6,,S,A,,Paris /  New York. NY
+first,no,Ringhini. Mr. Sante,male,22.0,0,0,PC 17760,135.6333,,C,,232.0,
+first,no,Robbins. Mr. Victor,male,,0,0,PC 17757,227.525,,C,,,
+first,yes,Robert. Mrs. Edward Scott (Elisabeth Walton McMillan),female,43.0,0,1,24160,211.3375,B3,S,2,,St Louis. MO
+first,no,Roebling. Mr. Washington Augustus II,male,31.0,0,0,PC 17590,50.4958,A24,S,,,Trenton. NJ
+first,yes,Romaine. Mr. Charles Hallace (Mr C Rolmane),male,45.0,0,0,111428,26.55,,S,9,,New York. NY
+first,no,Rood. Mr. Hugh Roscoe,male,,0,0,113767,50.0,A32,S,,,Seattle. WA
+first,yes,Rosenbaum. Miss. Edith Louise,female,33.0,0,0,PC 17613,27.7208,A11,C,11,,Paris. France
+first,no,Rosenshine. Mr. George (Mr George Thorne),male,46.0,0,0,PC 17585,79.2,,C,,16.0,New York. NY
+first,no,Ross. Mr. John Hugo,male,36.0,0,0,13049,40.125,A10,C,,,Winnipeg. MB
+first,yes,Rothes. the Countess. of (Lucy Noel Martha Dyer-Edwards),female,33.0,0,0,110152,86.5,B77,S,8,,London  Vancouver. BC
+first,no,Rothschild. Mr. Martin,male,55.0,1,0,PC 17603,59.4,,C,,,New York. NY
+first,yes,Rothschild. Mrs. Martin (Elizabeth L. Barrett),female,54.0,1,0,PC 17603,59.4,,C,6,,New York. NY
+first,no,Rowe. Mr. Alfred G,male,33.0,0,0,113790,26.55,,S,,109.0,London
+first,yes,Ryerson. Master. John Borie,male,13.0,2,2,PC 17608,262.375,B57 B59 B63 B66,C,4,,Haverford. PA / Cooperstown. NY
+first,yes,Ryerson. Miss. Emily Borie,female,18.0,2,2,PC 17608,262.375,B57 B59 B63 B66,C,4,,Haverford. PA / Cooperstown. NY
+first,yes,Ryerson. Miss. Susan Parker Suzette,female,21.0,2,2,PC 17608,262.375,B57 B59 B63 B66,C,4,,Haverford. PA / Cooperstown. NY
+first,no,Ryerson. Mr. Arthur Larned,male,61.0,1,3,PC 17608,262.375,B57 B59 B63 B66,C,,,Haverford. PA / Cooperstown. NY
+first,yes,Ryerson. Mrs. Arthur Larned (Emily Maria Borie),female,48.0,1,3,PC 17608,262.375,B57 B59 B63 B66,C,4,,Haverford. PA / Cooperstown. NY
+first,yes,Saalfeld. Mr. Adolphe,male,,0,0,19988,30.5,C106,S,3,,Manchester. England
+first,yes,Sagesser. Mlle. Emma,female,24.0,0,0,PC 17477,69.3,B35,C,9,,
+first,yes,Salomon. Mr. Abraham L,male,,0,0,111163,26.0,,S,1,,New York. NY
+first,yes,Schabert. Mrs. Paul (Emma Mock),female,35.0,1,0,13236,57.75,C28,C,11,,New York. NY
+first,yes,Serepeca. Miss. Augusta,female,30.0,0,0,113798,31.0,,C,4,,
+first,yes,Seward. Mr. Frederic Kimber,male,34.0,0,0,113794,26.55,,S,7,,New York. NY
+first,yes,Shutes. Miss. Elizabeth W,female,40.0,0,0,PC 17582,153.4625,C125,S,3,,New York. NY / Greenwich CT
+first,yes,Silverthorne. Mr. Spencer Victor,male,35.0,0,0,PC 17475,26.2875,E24,S,5,,St Louis. MO
+first,no,Silvey. Mr. William Baird,male,50.0,1,0,13507,55.9,E44,S,,,Duluth. MN
+first,yes,Silvey. Mrs. William Baird (Alice Munger),female,39.0,1,0,13507,55.9,E44,S,11,,Duluth. MN
+first,yes,Simonius-Blumer. Col. Oberst Alfons,male,56.0,0,0,13213,35.5,A26,C,3,,Basel. Switzerland
+first,yes,Sloper. Mr. William Thompson,male,28.0,0,0,113788,35.5,A6,S,7,,New Britain. CT
+first,no,Smart. Mr. John Montgomery,male,56.0,0,0,113792,26.55,,S,,,New York. NY
+first,no,Smith. Mr. James Clinch,male,56.0,0,0,17764,30.6958,A7,C,,,St James. Long Island. NY
+first,no,Smith. Mr. Lucien Philip,male,24.0,1,0,13695,60.0,C31,S,,,Huntington. WV
+first,no,Smith. Mr. Richard William,male,,0,0,113056,26.0,A19,S,,,Streatham. Surrey
+first,yes,Smith. Mrs. Lucien Philip (Mary Eloise Hughes),female,18.0,1,0,13695,60.0,C31,S,6,,Huntington. WV
+first,yes,Snyder. Mr. John Pillsbury,male,24.0,1,0,21228,82.2667,B45,S,7,,Minneapolis. MN
+first,yes,Snyder. Mrs. John Pillsbury (Nelle Stevenson),female,23.0,1,0,21228,82.2667,B45,S,7,,Minneapolis. MN
+first,yes,Spedden. Master. Robert Douglas,male,6.0,0,2,16966,134.5,E34,C,3,,Tuxedo Park. NY
+first,yes,Spedden. Mr. Frederic Oakley,male,45.0,1,1,16966,134.5,E34,C,3,,Tuxedo Park. NY
+first,yes,Spedden. Mrs. Frederic Oakley (Margaretta Corning Stone),female,40.0,1,1,16966,134.5,E34,C,3,,Tuxedo Park. NY
+first,no,Spencer. Mr. William Augustus,male,57.0,1,0,PC 17569,146.5208,B78,C,,,Paris. France
+first,yes,Spencer. Mrs. William Augustus (Marie Eugenie),female,,1,0,PC 17569,146.5208,B78,C,6,,Paris. France
+first,yes,Stahelin-Maeglin. Dr. Max,male,32.0,0,0,13214,30.5,B50,C,3,,Basel. Switzerland
+first,no,Stead. Mr. William Thomas,male,62.0,0,0,113514,26.55,C87,S,,,Wimbledon Park. London / Hayling Island. Hants
+first,yes,Stengel. Mr. Charles Emil Henry,male,54.0,1,0,11778,55.4417,C116,C,1,,Newark. NJ
+first,yes,Stengel. Mrs. Charles Emil Henry (Annie May Morris),female,43.0,1,0,11778,55.4417,C116,C,5,,Newark. NJ
+first,yes,Stephenson. Mrs. Walter Bertram (Martha Eustis),female,52.0,1,0,36947,78.2667,D20,C,4,,Haverford. PA
+first,no,Stewart. Mr. Albert A,male,,0,0,PC 17605,27.7208,,C,,,Gallipolis. Ohio / ? Paris / New York
+first,yes,Stone. Mrs. George Nelson (Martha Evelyn),female,62.0,0,0,113572,80.0,B28,,6,,Cincinatti. OH
+first,no,Straus. Mr. Isidor,male,67.0,1,0,PC 17483,221.7792,C55 C57,S,,96.0,New York. NY
+first,no,Straus. Mrs. Isidor (Rosalie Ida Blun),female,63.0,1,0,PC 17483,221.7792,C55 C57,S,,,New York. NY
+first,no,Sutton. Mr. Frederick,male,61.0,0,0,36963,32.3208,D50,S,,46.0,Haddenfield. NJ
+first,yes,Swift. Mrs. Frederick Joel (Margaret Welles Barron),female,48.0,0,0,17466,25.9292,D17,S,8,,Brooklyn. NY
+first,yes,Taussig. Miss. Ruth,female,18.0,0,2,110413,79.65,E68,S,8,,New York. NY
+first,no,Taussig. Mr. Emil,male,52.0,1,1,110413,79.65,E67,S,,,New York. NY
+first,yes,Taussig. Mrs. Emil (Tillie Mandelbaum),female,39.0,1,1,110413,79.65,E67,S,8,,New York. NY
+first,yes,Taylor. Mr. Elmer Zebley,male,48.0,1,0,19996,52.0,C126,S,5 7,,London /  East Orange. NJ
+first,yes,Taylor. Mrs. Elmer Zebley (Juliet Cummins Wright),female,,1,0,19996,52.0,C126,S,5 7,,London /  East Orange. NJ
+first,no,Thayer. Mr. John Borland,male,49.0,1,1,17421,110.8833,C68,C,,,Haverford. PA
+first,yes,Thayer. Mr. John Borland Jr,male,17.0,0,2,17421,110.8833,C70,C,B,,Haverford. PA
+first,yes,Thayer. Mrs. John Borland (Marian Longstreth Morris),female,39.0,1,1,17421,110.8833,C68,C,4,,Haverford. PA
+first,yes,Thorne. Mrs. Gertrude Maybelle,female,,0,0,PC 17585,79.2,,C,D,,New York. NY
+first,yes,Tucker. Mr. Gilbert Milligan Jr,male,31.0,0,0,2543,28.5375,C53,C,7,,Albany. NY
+first,no,Uruchurtu. Don. Manuel E,male,40.0,0,0,PC 17601,27.7208,,C,,,Mexico City. Mexico
+first,no,Van der hoef. Mr. Wyckoff,male,61.0,0,0,111240,33.5,B19,S,,245.0,Brooklyn. NY
+first,no,Walker. Mr. William Anderson,male,47.0,0,0,36967,34.0208,D46,S,,,East Orange. NJ
+first,yes,Ward. Miss. Anna,female,35.0,0,0,PC 17755,512.3292,,C,3,,
+first,no,Warren. Mr. Frank Manley,male,64.0,1,0,110813,75.25,D37,C,,,Portland. OR
+first,yes,Warren. Mrs. Frank Manley (Anna Sophia Atkinson),female,60.0,1,0,110813,75.25,D37,C,5,,Portland. OR
+first,no,Weir. Col. John,male,60.0,0,0,113800,26.55,,S,,,England Salt Lake City. Utah
+first,no,White. Mr. Percival Wayland,male,54.0,0,1,35281,77.2875,D26,S,,,Brunswick. ME
+first,no,White. Mr. Richard Frasar,male,21.0,0,1,35281,77.2875,D26,S,,169.0,Brunswick. ME
+first,yes,White. Mrs. John Stuart (Ella Holmes),female,55.0,0,0,PC 17760,135.6333,C32,C,8,,New York. NY / Briarcliff Manor NY
+first,yes,Wick. Miss. Mary Natalie,female,31.0,0,2,36928,164.8667,C7,S,8,,Youngstown. OH
+first,no,Wick. Mr. George Dennick,male,57.0,1,1,36928,164.8667,,S,,,Youngstown. OH
+first,yes,Wick. Mrs. George Dennick (Mary Hitchcock),female,45.0,1,1,36928,164.8667,,S,8,,Youngstown. OH
+first,no,Widener. Mr. George Dunton,male,50.0,1,1,113503,211.5,C80,C,,,Elkins Park. PA
+first,no,Widener. Mr. Harry Elkins,male,27.0,0,2,113503,211.5,C82,C,,,Elkins Park. PA
+first,yes,Widener. Mrs. George Dunton (Eleanor Elkins),female,50.0,1,1,113503,211.5,C80,C,4,,Elkins Park. PA
+first,yes,Willard. Miss. Constance,female,21.0,0,0,113795,26.55,,S,8 10,,Duluth. MN
+first,no,Williams. Mr. Charles Duane,male,51.0,0,1,PC 17597,61.3792,,C,,,Geneva. Switzerland / Radnor. PA
+first,yes,Williams. Mr. Richard Norris II,male,21.0,0,1,PC 17597,61.3792,,C,A,,Geneva. Switzerland / Radnor. PA
+first,no,Williams-Lambert. Mr. Fletcher Fellows,male,,0,0,113510,35.0,C128,S,,,London. England
+first,yes,Wilson. Miss. Helen Alice,female,31.0,0,0,16966,134.5,E39 E41,C,3,,
+first,yes,Woolner. Mr. Hugh,male,,0,0,19947,35.5,C52,S,D,,London. England
+first,no,Wright. Mr. George,male,62.0,0,0,113807,26.55,,S,,,Halifax. NS
+first,yes,Young. Miss. Marie Grice,female,36.0,0,0,PC 17760,135.6333,C32,C,8,,New York. NY / Washington. DC
+second,no,Abelson. Mr. Samuel,male,30.0,1,0,P/PP 3381,24.0,,C,,,Russia New York. NY
+second,yes,Abelson. Mrs. Samuel (Hannah Wizosky),female,28.0,1,0,P/PP 3381,24.0,,C,10,,Russia New York. NY
+second,no,Aldworth. Mr. Charles Augustus,male,30.0,0,0,248744,13.0,,S,,,Bryn Mawr. PA. USA
+second,no,Andrew. Mr. Edgardo Samuel,male,18.0,0,0,231945,11.5,,S,,,Buenos Aires. Argentina / New Jersey. NJ
+second,no,Andrew. Mr. Frank Thomas,male,25.0,0,0,C.A. 34050,10.5,,S,,,Cornwall. England Houghton. MI
+second,no,Angle. Mr. William A,male,34.0,1,0,226875,26.0,,S,,,Warwick. England
+second,yes,Angle. Mrs. William A (Florence Mary Agnes Hughes),female,36.0,1,0,226875,26.0,,S,11,,Warwick. England
+second,no,Ashby. Mr. John,male,57.0,0,0,244346,13.0,,S,,,West Hoboken. NJ
+second,no,Bailey. Mr. Percy Andrew,male,18.0,0,0,29108,11.5,,S,,,Penzance. Cornwall / Akron. OH
+second,no,Baimbrigge. Mr. Charles Robert,male,23.0,0,0,C.A. 31030,10.5,,S,,,Guernsey
+second,yes,Ball. Mrs. (Ada E Hall),female,36.0,0,0,28551,13.0,D,S,10,,Bristol. Avon / Jacksonville. FL
+second,no,Banfield. Mr. Frederick James,male,28.0,0,0,C.A./SOTON 34068,10.5,,S,,,Plymouth. Dorset / Houghton. MI
+second,no,Bateman. Rev. Robert James,male,51.0,0,0,S.O.P. 1166,12.525,,S,,174.0,Jacksonville. FL
+second,yes,Beane. Mr. Edward,male,32.0,1,0,2908,26.0,,S,13,,Norwich / New York. NY
+second,yes,Beane. Mrs. Edward (Ethel Clarke),female,19.0,1,0,2908,26.0,,S,13,,Norwich / New York. NY
+second,no,Beauchamp. Mr. Henry James,male,28.0,0,0,244358,26.0,,S,,,England
+second,yes,Becker. Master. Richard F,male,1.0,2,1,230136,39.0,F4,S,11,,Guntur. India / Benton Harbour. MI
+second,yes,Becker. Miss. Marion Louise,female,4.0,2,1,230136,39.0,F4,S,11,,Guntur. India / Benton Harbour. MI
+second,yes,Becker. Miss. Ruth Elizabeth,female,12.0,2,1,230136,39.0,F4,S,13,,Guntur. India / Benton Harbour. MI
+second,yes,Becker. Mrs. Allen Oliver (Nellie E Baumgardner),female,36.0,0,3,230136,39.0,F4,S,11,,Guntur. India / Benton Harbour. MI
+second,yes,Beesley. Mr. Lawrence,male,34.0,0,0,248698,13.0,D56,S,13,,London
+second,yes,Bentham. Miss. Lilian W,female,19.0,0,0,28404,13.0,,S,12,,Rochester. NY
+second,no,Berriman. Mr. William John,male,23.0,0,0,28425,13.0,,S,,,St Ives. Cornwall / Calumet. MI
+second,no,Botsford. Mr. William Hull,male,26.0,0,0,237670,13.0,,S,,,Elmira. NY / Orange. NJ
+second,no,Bowenur. Mr. Solomon,male,42.0,0,0,211535,13.0,,S,,,London
+second,no,Bracken. Mr. James H,male,27.0,0,0,220367,13.0,,S,,,Lake Arthur. Chavez County. NM
+second,yes,Brown. Miss. Amelia Mildred,female,24.0,0,0,248733,13.0,F33,S,11,,London / Montreal. PQ
+second,yes,Brown. Miss. Edith Eileen,female,15.0,0,2,29750,39.0,,S,14,,Cape Town. South Africa / Seattle. WA
+second,no,Brown. Mr. Thomas William Solomon,male,60.0,1,1,29750,39.0,,S,,,Cape Town. South Africa / Seattle. WA
+second,yes,Brown. Mrs. Thomas William Solomon (Elizabeth Catherine Ford),female,40.0,1,1,29750,39.0,,S,14,,Cape Town. South Africa / Seattle. WA
+second,yes,Bryhl. Miss. Dagmar Jenny Ingeborg ,female,20.0,1,0,236853,26.0,,S,12,,Skara. Sweden / Rockford. IL
+second,no,Bryhl. Mr. Kurt Arnold Gottfrid,male,25.0,1,0,236853,26.0,,S,,,Skara. Sweden / Rockford. IL
+second,yes,Buss. Miss. Kate,female,36.0,0,0,27849,13.0,,S,9,,Sittingbourne. England / San Diego. CA
+second,no,Butler. Mr. Reginald Fenton,male,25.0,0,0,234686,13.0,,S,,97.0,Southsea. Hants
+second,no,Byles. Rev. Thomas Roussel Davids,male,42.0,0,0,244310,13.0,,S,,,London
+second,yes,Bystrom. Mrs. (Karolina),female,42.0,0,0,236852,13.0,,S,,,New York. NY
+second,yes,Caldwell. Master. Alden Gates,male,0.8333,0,2,248738,29.0,,S,13,,Bangkok. Thailand / Roseville. IL
+second,yes,Caldwell. Mr. Albert Francis,male,26.0,1,1,248738,29.0,,S,13,,Bangkok. Thailand / Roseville. IL
+second,yes,Caldwell. Mrs. Albert Francis (Sylvia Mae Harbaugh),female,22.0,1,1,248738,29.0,,S,13,,Bangkok. Thailand / Roseville. IL
+second,yes,Cameron. Miss. Clear Annie,female,35.0,0,0,F.C.C. 13528,21.0,,S,14,,Mamaroneck. NY
+second,no,Campbell. Mr. William,male,,0,0,239853,0.0,,S,,,Belfast
+second,no,Carbines. Mr. William,male,19.0,0,0,28424,13.0,,S,,18.0,St Ives. Cornwall / Calumet. MI
+second,no,Carter. Mrs. Ernest Courtenay (Lilian Hughes),female,44.0,1,0,244252,26.0,,S,,,London
+second,no,Carter. Rev. Ernest Courtenay,male,54.0,1,0,244252,26.0,,S,,,London
+second,no,Chapman. Mr. Charles Henry,male,52.0,0,0,248731,13.5,,S,,130.0,Bronx. NY
+second,no,Chapman. Mr. John Henry,male,37.0,1,0,SC/AH 29037,26.0,,S,,17.0,Cornwall / Spokane. WA
+second,no,Chapman. Mrs. John Henry (Sara Elizabeth Lawry),female,29.0,1,0,SC/AH 29037,26.0,,S,,,Cornwall / Spokane. WA
+second,yes,Christy. Miss. Julie Rachel,female,25.0,1,1,237789,30.0,,S,12,,London
+second,yes,Christy. Mrs. (Alice Frances),female,45.0,0,2,237789,30.0,,S,12,,London
+second,no,Clarke. Mr. Charles Valentine,male,29.0,1,0,2003,26.0,,S,,,England / San Francisco. CA
+second,yes,Clarke. Mrs. Charles V (Ada Maria Winfield),female,28.0,1,0,2003,26.0,,S,14,,England / San Francisco. CA
+second,no,Coleridge. Mr. Reginald Charles,male,29.0,0,0,W./C. 14263,10.5,,S,,,Hartford. Huntingdonshire
+second,no,Collander. Mr. Erik Gustaf,male,28.0,0,0,248740,13.0,,S,,,Helsinki. Finland Ashtabula. Ohio
+second,yes,Collett. Mr. Sidney C Stuart,male,24.0,0,0,28034,10.5,,S,9,,London / Fort Byron. NY
+second,yes,Collyer. Miss. Marjorie Lottie,female,8.0,0,2,C.A. 31921,26.25,,S,14,,Bishopstoke. Hants / Fayette Valley. ID
+second,no,Collyer. Mr. Harvey,male,31.0,1,1,C.A. 31921,26.25,,S,,,Bishopstoke. Hants / Fayette Valley. ID
+second,yes,Collyer. Mrs. Harvey (Charlotte Annie Tate),female,31.0,1,1,C.A. 31921,26.25,,S,14,,Bishopstoke. Hants / Fayette Valley. ID
+second,yes,Cook. Mrs. (Selena Rogers),female,22.0,0,0,W./C. 14266,10.5,F33,S,14,,Pennsylvania
+second,no,Corbett. Mrs. Walter H (Irene Colvin),female,30.0,0,0,237249,13.0,,S,,,Provo. UT
+second,no,Corey. Mrs. Percy C (Mary Phyllis Elizabeth Miller),female,,0,0,F.C.C. 13534,21.0,,S,,,Upper Burma. India Pittsburgh. PA
+second,no,Cotterill. Mr. Henry Harry,male,21.0,0,0,29107,11.5,,S,,,Penzance. Cornwall / Akron. OH
+second,no,Cunningham. Mr. Alfred Fleming,male,,0,0,239853,0.0,,S,,,Belfast
+second,yes,Davies. Master. John Morgan Jr,male,8.0,1,1,C.A. 33112,36.75,,S,14,,St Ives. Cornwall / Hancock. MI
+second,no,Davies. Mr. Charles Henry,male,18.0,0,0,S.O.C. 14879,73.5,,S,,,Lyndhurst. England
+second,yes,Davies. Mrs. John Morgan (Elizabeth Agnes Mary White) ,female,48.0,0,2,C.A. 33112,36.75,,S,14,,St Ives. Cornwall / Hancock. MI
+second,yes,Davis. Miss. Mary,female,28.0,0,0,237668,13.0,,S,13,,London / Staten Island. NY
+second,no,de Brito. Mr. Jose Joaquim,male,32.0,0,0,244360,13.0,,S,,,Portugal / Sau Paulo. Brazil
+second,no,Deacon. Mr. Percy William,male,17.0,0,0,S.O.C. 14879,73.5,,S,,,
+second,no,del Carlo. Mr. Sebastiano,male,29.0,1,0,SC/PARIS 2167,27.7208,,C,,295.0,Lucca. Italy / California
+second,yes,del Carlo. Mrs. Sebastiano (Argenia Genovesi),female,24.0,1,0,SC/PARIS 2167,27.7208,,C,12,,Lucca. Italy / California
+second,no,Denbury. Mr. Herbert,male,25.0,0,0,C.A. 31029,31.5,,S,,,Guernsey / Elizabeth. NJ
+second,no,Dibden. Mr. William,male,18.0,0,0,S.O.C. 14879,73.5,,S,,,New Forest. England
+second,yes,Doling. Miss. Elsie,female,18.0,0,1,231919,23.0,,S,,,Southampton
+second,yes,Doling. Mrs. John T (Ada Julia Bone),female,34.0,0,1,231919,23.0,,S,,,Southampton
+second,no,Downton. Mr. William James,male,54.0,0,0,28403,26.0,,S,,,Holley. NY
+second,yes,Drew. Master. Marshall Brines,male,8.0,0,2,28220,32.5,,S,10,,Greenport. NY
+second,no,Drew. Mr. James Vivian,male,42.0,1,1,28220,32.5,,S,,,Greenport. NY
+second,yes,Drew. Mrs. James Vivian (Lulu Thorne Christian),female,34.0,1,1,28220,32.5,,S,10,,Greenport. NY
+second,yes,Duran y More. Miss. Asuncion,female,27.0,1,0,SC/PARIS 2149,13.8583,,C,12,,Barcelona. Spain / Havana. Cuba
+second,yes,Duran y More. Miss. Florentina,female,30.0,1,0,SC/PARIS 2148,13.8583,,C,12,,Barcelona. Spain / Havana. Cuba
+second,no,Eitemiller. Mr. George Floyd,male,23.0,0,0,29751,13.0,,S,,,England / Detroit. MI
+second,no,Enander. Mr. Ingvar,male,21.0,0,0,236854,13.0,,S,,,Goteborg. Sweden / Rockford. IL
+second,no,Fahlstrom. Mr. Arne Jonas,male,18.0,0,0,236171,13.0,,S,,,Oslo. Norway Bayonne. NJ
+second,no,Faunthorpe. Mr. Harry,male,40.0,1,0,2926,26.0,,S,,286.0,England / Philadelphia. PA
+second,yes,Faunthorpe. Mrs. Lizzie (Elizabeth Anne Wilkinson),female,29.0,1,0,2926,26.0,,S,16,,
+second,no,Fillbrook. Mr. Joseph Charles,male,18.0,0,0,C.A. 15185,10.5,,S,,,Cornwall / Houghton. MI
+second,no,Fox. Mr. Stanley Hubert,male,36.0,0,0,229236,13.0,,S,,236.0,Rochester. NY
+second,no,Frost. Mr. Anthony Wood Archie,male,,0,0,239854,0.0,,S,,,Belfast
+second,no,Funk. Miss. Annie Clemmer,female,38.0,0,0,237671,13.0,,S,,,Janjgir. India / Pennsylvania
+second,no,Fynney. Mr. Joseph J,male,35.0,0,0,239865,26.0,,S,,322.0,Liverpool / Montreal. PQ
+second,no,Gale. Mr. Harry,male,38.0,1,0,28664,21.0,,S,,,Cornwall / Clear Creek. CO
+second,no,Gale. Mr. Shadrach,male,34.0,1,0,28664,21.0,,S,,,Cornwall / Clear Creek. CO
+second,yes,Garside. Miss. Ethel,female,34.0,0,0,243880,13.0,,S,12,,Brooklyn. NY
+second,no,Gaskell. Mr. Alfred,male,16.0,0,0,239865,26.0,,S,,,Liverpool / Montreal. PQ
+second,no,Gavey. Mr. Lawrence,male,26.0,0,0,31028,10.5,,S,,,Guernsey / Elizabeth. NJ
+second,no,Gilbert. Mr. William,male,47.0,0,0,C.A. 30769,10.5,,S,,,Cornwall
+second,no,Giles. Mr. Edgar,male,21.0,1,0,28133,11.5,,S,,,Cornwall / Camden. NJ
+second,no,Giles. Mr. Frederick Edward,male,21.0,1,0,28134,11.5,,S,,,Cornwall / Camden. NJ
+second,no,Giles. Mr. Ralph,male,24.0,0,0,248726,13.5,,S,,297.0,West Kensington. London
+second,no,Gill. Mr. John William,male,24.0,0,0,233866,13.0,,S,,155.0,Clevedon. England
+second,no,Gillespie. Mr. William Henry,male,34.0,0,0,12233,13.0,,S,,,Vancouver. BC
+second,no,Givard. Mr. Hans Kristensen,male,30.0,0,0,250646,13.0,,S,,305.0,
+second,no,Greenberg. Mr. Samuel,male,52.0,0,0,250647,13.0,,S,,19.0,Bronx. NY
+second,no,Hale. Mr. Reginald,male,30.0,0,0,250653,13.0,,S,,75.0,Auburn. NY
+second,yes,Hamalainen. Master. Viljo,male,0.6667,1,1,250649,14.5,,S,4,,Detroit. MI
+second,yes,Hamalainen. Mrs. William (Anna),female,24.0,0,2,250649,14.5,,S,4,,Detroit. MI
+second,no,Harbeck. Mr. William H,male,44.0,0,0,248746,13.0,,S,,35.0,Seattle. WA / Toledo. OH
+second,yes,Harper. Miss. Annie Jessie Nina,female,6.0,0,1,248727,33.0,,S,11,,Denmark Hill. Surrey / Chicago
+second,no,Harper. Rev. John,male,28.0,0,1,248727,33.0,,S,,,Denmark Hill. Surrey / Chicago
+second,yes,Harris. Mr. George,male,62.0,0,0,S.W./PP 752,10.5,,S,15,,London
+second,no,Harris. Mr. Walter,male,30.0,0,0,W/C 14208,10.5,,S,,,Walthamstow. England
+second,yes,Hart. Miss. Eva Miriam,female,7.0,0,2,F.C.C. 13529,26.25,,S,14,,Ilford. Essex / Winnipeg. MB
+second,no,Hart. Mr. Benjamin,male,43.0,1,1,F.C.C. 13529,26.25,,S,,,Ilford. Essex / Winnipeg. MB
+second,yes,Hart. Mrs. Benjamin (Esther Ada Bloomfield),female,45.0,1,1,F.C.C. 13529,26.25,,S,14,,Ilford. Essex / Winnipeg. MB
+second,yes,Herman. Miss. Alice,female,24.0,1,2,220845,65.0,,S,9,,Somerset / Bernardsville. NJ
+second,yes,Herman. Miss. Kate,female,24.0,1,2,220845,65.0,,S,9,,Somerset / Bernardsville. NJ
+second,no,Herman. Mr. Samuel,male,49.0,1,2,220845,65.0,,S,,,Somerset / Bernardsville. NJ
+second,yes,Herman. Mrs. Samuel (Jane Laver),female,48.0,1,2,220845,65.0,,S,9,,Somerset / Bernardsville. NJ
+second,yes,Hewlett. Mrs. (Mary D Kingcome) ,female,55.0,0,0,248706,16.0,,S,13,,India / Rapid City. SD
+second,no,Hickman. Mr. Leonard Mark,male,24.0,2,0,S.O.C. 14879,73.5,,S,,,West Hampstead. London / Neepawa. MB
+second,no,Hickman. Mr. Lewis,male,32.0,2,0,S.O.C. 14879,73.5,,S,,256.0,West Hampstead. London / Neepawa. MB
+second,no,Hickman. Mr. Stanley George,male,21.0,2,0,S.O.C. 14879,73.5,,S,,,West Hampstead. London / Neepawa. MB
+second,no,Hiltunen. Miss. Marta,female,18.0,1,1,250650,13.0,,S,,,Kontiolahti. Finland / Detroit. MI
+second,yes,Hocking. Miss. Ellen Nellie,female,20.0,2,1,29105,23.0,,S,4,,Cornwall / Akron. OH
+second,no,Hocking. Mr. Richard George,male,23.0,2,1,29104,11.5,,S,,,Cornwall / Akron. OH
+second,no,Hocking. Mr. Samuel James Metcalfe,male,36.0,0,0,242963,13.0,,S,,,Devonport. England
+second,yes,Hocking. Mrs. Elizabeth (Eliza Needs),female,54.0,1,3,29105,23.0,,S,4,,Cornwall / Akron. OH
+second,no,Hodges. Mr. Henry Price,male,50.0,0,0,250643,13.0,,S,,149.0,Southampton
+second,no,Hold. Mr. Stephen,male,44.0,1,0,26707,26.0,,S,,,England / Sacramento. CA
+second,yes,Hold. Mrs. Stephen (Annie Margaret Hill),female,29.0,1,0,26707,26.0,,S,10,,England / Sacramento. CA
+second,no,Hood. Mr. Ambrose Jr,male,21.0,0,0,S.O.C. 14879,73.5,,S,,,New Forest. England
+second,yes,Hosono. Mr. Masabumi,male,42.0,0,0,237798,13.0,,S,10,,Tokyo. Japan
+second,no,Howard. Mr. Benjamin,male,63.0,1,0,24065,26.0,,S,,,Swindon. England
+second,no,Howard. Mrs. Benjamin (Ellen Truelove Arman),female,60.0,1,0,24065,26.0,,S,,,Swindon. England
+second,no,Hunt. Mr. George Henry,male,33.0,0,0,SCO/W 1585,12.275,,S,,,Philadelphia. PA
+second,yes,Ilett. Miss. Bertha,female,17.0,0,0,SO/C 14885,10.5,,S,,,Guernsey
+second,no,Jacobsohn. Mr. Sidney Samuel,male,42.0,1,0,243847,27.0,,S,,,London
+second,yes,Jacobsohn. Mrs. Sidney Samuel (Amy Frances Christy),female,24.0,2,1,243847,27.0,,S,12,,London
+second,no,Jarvis. Mr. John Denzil,male,47.0,0,0,237565,15.0,,S,,,North Evington. England
+second,no,Jefferys. Mr. Clifford Thomas,male,24.0,2,0,C.A. 31029,31.5,,S,,,Guernsey / Elizabeth. NJ
+second,no,Jefferys. Mr. Ernest Wilfred,male,22.0,2,0,C.A. 31029,31.5,,S,,,Guernsey / Elizabeth. NJ
+second,no,Jenkin. Mr. Stephen Curnow,male,32.0,0,0,C.A. 33111,10.5,,S,,,St Ives. Cornwall / Houghton. MI
+second,yes,Jerwan. Mrs. Amin S (Marie Marthe Thuillard),female,23.0,0,0,SC/AH Basle 541,13.7917,D,C,11,,New York. NY
+second,no,Kantor. Mr. Sinai,male,34.0,1,0,244367,26.0,,S,,283.0,Moscow / Bronx. NY
+second,yes,Kantor. Mrs. Sinai (Miriam Sternin),female,24.0,1,0,244367,26.0,,S,12,,Moscow / Bronx. NY
+second,no,Karnes. Mrs. J Frank (Claire Bennett),female,22.0,0,0,F.C.C. 13534,21.0,,S,,,India / Pittsburgh. PA
+second,yes,Keane. Miss. Nora A,female,,0,0,226593,12.35,E101,Q,10,,Harrisburg. PA
+second,no,Keane. Mr. Daniel,male,35.0,0,0,233734,12.35,,Q,,,
+second,yes,Kelly. Mrs. Florence Fannie,female,45.0,0,0,223596,13.5,,S,9,,London / New York. NY
+second,no,Kirkland. Rev. Charles Leonard,male,57.0,0,0,219533,12.35,,Q,,,Glasgow / Bangor. ME
+second,no,Knight. Mr. Robert J,male,,0,0,239855,0.0,,S,,,Belfast
+second,no,Kvillner. Mr. Johan Henrik Johannesson,male,31.0,0,0,C.A. 18723,10.5,,S,,165.0,Sweden / Arlington. NJ
+second,no,Lahtinen. Mrs. William (Anna Sylfven),female,26.0,1,1,250651,26.0,,S,,,Minneapolis. MN
+second,no,Lahtinen. Rev. William,male,30.0,1,1,250651,26.0,,S,,,Minneapolis. MN
+second,no,Lamb. Mr. John Joseph,male,,0,0,240261,10.7083,,Q,,,
+second,yes,Laroche. Miss. Louise,female,1.0,1,2,SC/Paris 2123,41.5792,,C,14,,Paris / Haiti
+second,yes,Laroche. Miss. Simonne Marie Anne Andree,female,3.0,1,2,SC/Paris 2123,41.5792,,C,14,,Paris / Haiti
+second,no,Laroche. Mr. Joseph Philippe Lemercier,male,25.0,1,2,SC/Paris 2123,41.5792,,C,,,Paris / Haiti
+second,yes,Laroche. Mrs. Joseph (Juliette Marie Louise Lafargue),female,22.0,1,2,SC/Paris 2123,41.5792,,C,14,,Paris / Haiti
+second,yes,Lehmann. Miss. Bertha,female,17.0,0,0,SC 1748,12.0,,C,12,,Berne. Switzerland / Central City. IA
+second,yes,Leitch. Miss. Jessie Wills,female,,0,0,248727,33.0,,S,11,,London / Chicago. IL
+second,yes,Lemore. Mrs. (Amelia Milley),female,34.0,0,0,C.A. 34260,10.5,F33,S,14,,Chicago. IL
+second,no,Levy. Mr. Rene Jacques,male,36.0,0,0,SC/Paris 2163,12.875,D,C,,,Montreal. PQ
+second,no,Leyson. Mr. Robert William Norman,male,24.0,0,0,C.A. 29566,10.5,,S,,108.0,
+second,no,Lingane. Mr. John,male,61.0,0,0,235509,12.35,,Q,,,
+second,no,Louch. Mr. Charles Alexander,male,50.0,1,0,SC/AH 3085,26.0,,S,,121.0,Weston-Super-Mare. Somerset
+second,yes,Louch. Mrs. Charles Alexander (Alice Adelaide Slow),female,42.0,1,0,SC/AH 3085,26.0,,S,,,Weston-Super-Mare. Somerset
+second,no,Mack. Mrs. (Mary),female,57.0,0,0,S.O./P.P. 3,10.5,E77,S,,52.0,Southampton / New York. NY
+second,no,Malachard. Mr. Noel,male,,0,0,237735,15.0458,D,C,,,Paris
+second,yes,Mallet. Master. Andre,male,1.0,0,2,S.C./PARIS 2079,37.0042,,C,10,,Paris / Montreal. PQ
+second,no,Mallet. Mr. Albert,male,31.0,1,1,S.C./PARIS 2079,37.0042,,C,,,Paris / Montreal. PQ
+second,yes,Mallet. Mrs. Albert (Antoinette Magnin),female,24.0,1,1,S.C./PARIS 2079,37.0042,,C,10,,Paris / Montreal. PQ
+second,no,Mangiavacchi. Mr. Serafino Emilio,male,,0,0,SC/A.3 2861,15.5792,,C,,,New York. NY
+second,no,Matthews. Mr. William John,male,30.0,0,0,28228,13.0,,S,,,St Austall. Cornwall
+second,no,Maybery. Mr. Frank Hubert,male,40.0,0,0,239059,16.0,,S,,,Weston-Super-Mare / Moose Jaw. SK
+second,no,McCrae. Mr. Arthur Gordon,male,32.0,0,0,237216,13.5,,S,,209.0,Sydney. Australia
+second,no,McCrie. Mr. James Matthew,male,30.0,0,0,233478,13.0,,S,,,Sarnia. ON
+second,no,McKane. Mr. Peter David,male,46.0,0,0,28403,26.0,,S,,,Rochester. NY
+second,yes,Mellinger. Miss. Madeleine Violet,female,13.0,0,1,250644,19.5,,S,14,,England / Bennington. VT
+second,yes,Mellinger. Mrs. (Elizabeth Anne Maidment),female,41.0,0,1,250644,19.5,,S,14,,England / Bennington. VT
+second,yes,Mellors. Mr. William John,male,19.0,0,0,SW/PP 751,10.5,,S,B,,Chelsea. London
+second,no,Meyer. Mr. August,male,39.0,0,0,248723,13.0,,S,,,Harrow-on-the-Hill. Middlesex
+second,no,Milling. Mr. Jacob Christian,male,48.0,0,0,234360,13.0,,S,,271.0,Copenhagen. Denmark
+second,no,Mitchell. Mr. Henry Michael,male,70.0,0,0,C.A. 24580,10.5,,S,,,Guernsey / Montclair. NJ and/or Toledo. Ohio
+second,no,Montvila. Rev. Juozas,male,27.0,0,0,211536,13.0,,S,,,Worcester. MA
+second,no,Moraweck. Dr. Ernest,male,54.0,0,0,29011,14.0,,S,,,Frankfort. KY
+second,no,Morley. Mr. Henry Samuel (Mr Henry Marshall),male,39.0,0,0,250655,26.0,,S,,,
+second,no,Mudd. Mr. Thomas Charles,male,16.0,0,0,S.O./P.P. 3,10.5,,S,,,Halesworth. England
+second,no,Myles. Mr. Thomas Francis,male,62.0,0,0,240276,9.6875,,Q,,,Cambridge. MA
+second,no,Nasser. Mr. Nicholas,male,32.5,1,0,237736,30.0708,,C,,43.0,New York. NY
+second,yes,Nasser. Mrs. Nicholas (Adele Achem),female,14.0,1,0,237736,30.0708,,C,,,New York. NY
+second,yes,Navratil. Master. Edmond Roger,male,2.0,1,1,230080,26.0,F2,S,D,,Nice. France
+second,yes,Navratil. Master. Michel M,male,3.0,1,1,230080,26.0,F2,S,D,,Nice. France
+second,no,Navratil. Mr. Michel (Louis M Hoffman),male,36.5,0,2,230080,26.0,F2,S,,15.0,Nice. France
+second,no,Nesson. Mr. Israel,male,26.0,0,0,244368,13.0,F2,S,,,Boston. MA
+second,no,Nicholls. Mr. Joseph Charles,male,19.0,1,1,C.A. 33112,36.75,,S,,101.0,Cornwall / Hancock. MI
+second,no,Norman. Mr. Robert Douglas,male,28.0,0,0,218629,13.5,,S,,287.0,Glasgow
+second,yes,Nourney. Mr. Alfred (Baron von Drachstedt),male,20.0,0,0,SC/PARIS 2166,13.8625,D38,C,7,,Cologne. Germany
+second,yes,Nye. Mrs. (Elizabeth Ramell),female,29.0,0,0,C.A. 29395,10.5,F33,S,11,,Folkstone. Kent / New York. NY
+second,no,Otter. Mr. Richard,male,39.0,0,0,28213,13.0,,S,,,Middleburg Heights. OH
+second,yes,Oxenham. Mr. Percy Thomas,male,22.0,0,0,W./C. 14260,10.5,,S,13,,Pondersend. England / New Durham. NJ
+second,yes,Padro y Manent. Mr. Julian,male,,0,0,SC/PARIS 2146,13.8625,,C,9,,Spain / Havana. Cuba
+second,no,Pain. Dr. Alfred,male,23.0,0,0,244278,10.5,,S,,,Hamilton. ON
+second,yes,Pallas y Castello. Mr. Emilio,male,29.0,0,0,SC/PARIS 2147,13.8583,,C,9,,Spain / Havana. Cuba
+second,no,Parker. Mr. Clifford Richard,male,28.0,0,0,SC 14888,10.5,,S,,,St Andrews. Guernsey
+second,no,Parkes. Mr. Francis Frank,male,,0,0,239853,0.0,,S,,,Belfast
+second,yes,Parrish. Mrs. (Lutie Davis),female,50.0,0,1,230433,26.0,,S,12,,Woodford County. KY
+second,no,Pengelly. Mr. Frederick William,male,19.0,0,0,28665,10.5,,S,,,Gunnislake. England / Butte. MT
+second,no,Pernot. Mr. Rene,male,,0,0,SC/PARIS 2131,15.05,,C,,,
+second,no,Peruschitz. Rev. Joseph Maria,male,41.0,0,0,237393,13.0,,S,,,
+second,yes,Phillips. Miss. Alice Frances Louisa,female,21.0,0,1,S.O./P.P. 2,21.0,,S,12,,Ilfracombe. Devon
+second,yes,Phillips. Miss. Kate Florence (Mrs Kate Louise Phillips Marshall),female,19.0,0,0,250655,26.0,,S,11,,Worcester. England
+second,no,Phillips. Mr. Escott Robert,male,43.0,0,1,S.O./P.P. 2,21.0,,S,,,Ilfracombe. Devon
+second,yes,Pinsky. Mrs. (Rosa),female,32.0,0,0,234604,13.0,,S,9,,Russia
+second,no,Ponesell. Mr. Martin,male,34.0,0,0,250647,13.0,,S,,,Denmark / New York. NY
+second,yes,Portaluppi. Mr. Emilio Ilario Giuseppe,male,30.0,0,0,C.A. 34644,12.7375,,C,14,,Milford. NH
+second,no,Pulbaum. Mr. Franz,male,27.0,0,0,SC/PARIS 2168,15.0333,,C,,,Paris
+second,yes,Quick. Miss. Phyllis May,female,2.0,1,1,26360,26.0,,S,11,,Plymouth. Devon / Detroit. MI
+second,yes,Quick. Miss. Winifred Vera,female,8.0,1,1,26360,26.0,,S,11,,Plymouth. Devon / Detroit. MI
+second,yes,Quick. Mrs. Frederick Charles (Jane Richards),female,33.0,0,2,26360,26.0,,S,11,,Plymouth. Devon / Detroit. MI
+second,no,Reeves. Mr. David,male,36.0,0,0,C.A. 17248,10.5,,S,,,Brighton. Sussex
+second,no,Renouf. Mr. Peter Henry,male,34.0,1,0,31027,21.0,,S,12,,Elizabeth. NJ
+second,yes,Renouf. Mrs. Peter Henry (Lillian Jefferys),female,30.0,3,0,31027,21.0,,S,,,Elizabeth. NJ
+second,yes,Reynaldo. Ms. Encarnacion,female,28.0,0,0,230434,13.0,,S,9,,Spain
+second,no,Richard. Mr. Emile,male,23.0,0,0,SC/PARIS 2133,15.0458,,C,,,Paris / Montreal. PQ
+second,yes,Richards. Master. George Sibley,male,0.8333,1,1,29106,18.75,,S,4,,Cornwall / Akron. OH
+second,yes,Richards. Master. William Rowe,male,3.0,1,1,29106,18.75,,S,4,,Cornwall / Akron. OH
+second,yes,Richards. Mrs. Sidney (Emily Hocking),female,24.0,2,3,29106,18.75,,S,4,,Cornwall / Akron. OH
+second,yes,Ridsdale. Miss. Lucy,female,50.0,0,0,W./C. 14258,10.5,,S,13,,London. England / Marietta. Ohio and Milwaukee. WI
+second,no,Rogers. Mr. Reginald Harry,male,19.0,0,0,28004,10.5,,S,,,
+second,yes,Rugg. Miss. Emily,female,21.0,0,0,C.A. 31026,10.5,,S,12,,Guernsey / Wilmington. DE
+second,no,Schmidt. Mr. August,male,26.0,0,0,248659,13.0,,S,,,Newark. NJ
+second,no,Sedgwick. Mr. Charles Frederick Waddington,male,25.0,0,0,244361,13.0,,S,,,Liverpool
+second,no,Sharp. Mr. Percival James R,male,27.0,0,0,244358,26.0,,S,,,Hornsey. England
+second,yes,Shelley. Mrs. William (Imanita Parrish Hall),female,25.0,0,1,230433,26.0,,S,12,,Deer Lodge. MT
+second,yes,Silven. Miss. Lyyli Karoliina,female,18.0,0,2,250652,13.0,,S,16,,Finland / Minneapolis. MN
+second,yes,Sincock. Miss. Maude,female,20.0,0,0,C.A. 33112,36.75,,S,11,,Cornwall / Hancock. MI
+second,yes,Sinkkonen. Miss. Anna,female,30.0,0,0,250648,13.0,,S,10,,Finland / Washington. DC
+second,no,Sjostedt. Mr. Ernst Adolf,male,59.0,0,0,237442,13.5,,S,,,Sault St Marie. ON
+second,yes,Slayter. Miss. Hilda Mary,female,30.0,0,0,234818,12.35,,Q,13,,Halifax. NS
+second,no,Slemen. Mr. Richard James,male,35.0,0,0,28206,10.5,,S,,,Cornwall
+second,yes,Smith. Miss. Marion Elsie,female,40.0,0,0,31418,13.0,,S,9,,
+second,no,Sobey. Mr. Samuel James Hayden,male,25.0,0,0,C.A. 29178,13.0,,S,,,Cornwall / Houghton. MI
+second,no,Stanton. Mr. Samuel Ward,male,41.0,0,0,237734,15.0458,,C,,,New York. NY
+second,no,Stokes. Mr. Philip Joseph,male,25.0,0,0,F.C.C. 13540,10.5,,S,,81.0,Catford. Kent / Detroit. MI
+second,no,Swane. Mr. George,male,18.5,0,0,248734,13.0,F,S,,294.0,
+second,no,Sweet. Mr. George Frederick,male,14.0,0,0,220845,65.0,,S,,,Somerset / Bernardsville. NJ
+second,yes,Toomey. Miss. Ellen,female,50.0,0,0,F.C.C. 13531,10.5,,S,9,,Indianapolis. IN
+second,no,Troupiansky. Mr. Moses Aaron,male,23.0,0,0,233639,13.0,,S,,,
+second,yes,Trout. Mrs. William H (Jessie L),female,28.0,0,0,240929,12.65,,S,,,Columbus. OH
+second,yes,Troutt. Miss. Edwina Celia Winnie,female,27.0,0,0,34218,10.5,E101,S,16,,Bath. England / Massachusetts
+second,no,Turpin. Mr. William John Robert,male,29.0,1,0,11668,21.0,,S,,,Plymouth. England
+second,no,Turpin. Mrs. William John Robert (Dorothy Ann Wonnacott),female,27.0,1,0,11668,21.0,,S,,,Plymouth. England
+second,no,Veal. Mr. James,male,40.0,0,0,28221,13.0,,S,,,Barre. Co Washington. VT
+second,yes,Walcroft. Miss. Nellie,female,31.0,0,0,F.C.C. 13528,21.0,,S,14,,Mamaroneck. NY
+second,no,Ware. Mr. John James,male,30.0,1,0,CA 31352,21.0,,S,,,Bristol. England / New Britain. CT
+second,no,Ware. Mr. William Jeffery,male,23.0,1,0,28666,10.5,,S,,,
+second,yes,Ware. Mrs. John James (Florence Louise Long),female,31.0,0,0,CA 31352,21.0,,S,10,,Bristol. England / New Britain. CT
+second,no,Watson. Mr. Ennis Hastings,male,,0,0,239856,0.0,,S,,,Belfast
+second,yes,Watt. Miss. Bertha J,female,12.0,0,0,C.A. 33595,15.75,,S,9,,Aberdeen / Portland. OR
+second,yes,Watt. Mrs. James (Elizabeth Bessie Inglis Milne),female,40.0,0,0,C.A. 33595,15.75,,S,9,,Aberdeen / Portland. OR
+second,yes,Webber. Miss. Susan,female,32.5,0,0,27267,13.0,E101,S,12,,England / Hartford. CT
+second,no,Weisz. Mr. Leopold,male,27.0,1,0,228414,26.0,,S,,293.0,Bromsgrove. England / Montreal. PQ
+second,yes,Weisz. Mrs. Leopold (Mathilde Francoise Pede),female,29.0,1,0,228414,26.0,,S,10,,Bromsgrove. England / Montreal. PQ
+second,yes,Wells. Master. Ralph Lester,male,2.0,1,1,29103,23.0,,S,14,,Cornwall / Akron. OH
+second,yes,Wells. Miss. Joan,female,4.0,1,1,29103,23.0,,S,14,,Cornwall / Akron. OH
+second,yes,Wells. Mrs. Arthur Henry (Addie Dart Trevaskis),female,29.0,0,2,29103,23.0,,S,14,,Cornwall / Akron. OH
+second,yes,West. Miss. Barbara J,female,0.9167,1,2,C.A. 34651,27.75,,S,10,,Bournmouth. England
+second,yes,West. Miss. Constance Mirium,female,5.0,1,2,C.A. 34651,27.75,,S,10,,Bournmouth. England
+second,no,West. Mr. Edwy Arthur,male,36.0,1,2,C.A. 34651,27.75,,S,,,Bournmouth. England
+second,yes,West. Mrs. Edwy Arthur (Ada Mary Worth),female,33.0,1,2,C.A. 34651,27.75,,S,10,,Bournmouth. England
+second,no,Wheadon. Mr. Edward H,male,66.0,0,0,C.A. 24579,10.5,,S,,,Guernsey. England / Edgewood. RI
+second,no,Wheeler. Mr. Edwin Frederick,male,,0,0,SC/PARIS 2159,12.875,,S,,,
+second,yes,Wilhelms. Mr. Charles,male,31.0,0,0,244270,13.0,,S,9,,London. England
+second,yes,Williams. Mr. Charles Eugene,male,,0,0,244373,13.0,,S,14,,Harrow. England
+second,yes,Wright. Miss. Marion,female,26.0,0,0,220844,13.5,,S,9,,Yoevil. England / Cottage Grove. OR
+second,no,Yrois. Miss. Henriette (Mrs Harbeck),female,24.0,0,0,248747,13.0,,S,,,Paris
+third,no,Abbing. Mr. Anthony,male,42.0,0,0,C.A. 5547,7.55,,S,,,
+third,no,Abbott. Master. Eugene Joseph,male,13.0,0,2,C.A. 2673,20.25,,S,,,East Providence. RI
+third,no,Abbott. Mr. Rossmore Edward,male,16.0,1,1,C.A. 2673,20.25,,S,,190.0,East Providence. RI
+third,yes,Abbott. Mrs. Stanton (Rosa Hunt),female,35.0,1,1,C.A. 2673,20.25,,S,A,,East Providence. RI
+third,yes,Abelseth. Miss. Karen Marie,female,16.0,0,0,348125,7.65,,S,16,,Norway Los Angeles. CA
+third,yes,Abelseth. Mr. Olaus Jorgensen,male,25.0,0,0,348122,7.65,F G63,S,A,,Perkins County. SD
+third,yes,Abrahamsson. Mr. Abraham August Johannes,male,20.0,0,0,SOTON/O2 3101284,7.925,,S,15,,Taalintehdas. Finland Hoboken. NJ
+third,yes,Abrahim. Mrs. Joseph (Sophie Halaut Easu),female,18.0,0,0,2657,7.2292,,C,C,,Greensburg. PA
+third,no,Adahl. Mr. Mauritz Nils Martin,male,30.0,0,0,C 7076,7.25,,S,,72.0,Asarum. Sweden Brooklyn. NY
+third,no,Adams. Mr. John,male,26.0,0,0,341826,8.05,,S,,103.0,Bournemouth. England
+third,no,Ahlin. Mrs. Johan (Johanna Persdotter Larsson),female,40.0,1,0,7546,9.475,,S,,,Sweden Akeley. MN
+third,yes,Aks. Master. Philip Frank,male,0.8333,0,1,392091,9.35,,S,11,,London. England Norfolk. VA
+third,yes,Aks. Mrs. Sam (Leah Rosen),female,18.0,0,1,392091,9.35,,S,13,,London. England Norfolk. VA
+third,yes,Albimona. Mr. Nassef Cassem,male,26.0,0,0,2699,18.7875,,C,15,,Syria Fredericksburg. VA
+third,no,Alexander. Mr. William,male,26.0,0,0,3474,7.8875,,S,,,England Albion. NY
+third,no,Alhomaki. Mr. Ilmari Rudolf,male,20.0,0,0,SOTON/O2 3101287,7.925,,S,,,Salo. Finland Astoria. OR
+third,no,Ali. Mr. Ahmed,male,24.0,0,0,SOTON/O.Q. 3101311,7.05,,S,,,
+third,no,Ali. Mr. William,male,25.0,0,0,SOTON/O.Q. 3101312,7.05,,S,,79.0,Argentina
+third,no,Allen. Mr. William Henry,male,35.0,0,0,373450,8.05,,S,,,Lower Clapton. Middlesex or Erdington. Birmingham
+third,no,Allum. Mr. Owen George,male,18.0,0,0,2223,8.3,,S,,259.0,Windsor. England New York. NY
+third,no,Andersen. Mr. Albert Karvin,male,32.0,0,0,C 4001,22.525,,S,,260.0,Bergen. Norway
+third,yes,Andersen-Jensen. Miss. Carla Christine Nielsine,female,19.0,1,0,350046,7.8542,,S,16,,
+third,no,Andersson. Master. Sigvard Harald Elias,male,4.0,4,2,347082,31.275,,S,,,Sweden Winnipeg. MN
+third,no,Andersson. Miss. Ebba Iris Alfrida,female,6.0,4,2,347082,31.275,,S,,,Sweden Winnipeg. MN
+third,no,Andersson. Miss. Ellis Anna Maria,female,2.0,4,2,347082,31.275,,S,,,Sweden Winnipeg. MN
+third,yes,Andersson. Miss. Erna Alexandra,female,17.0,4,2,3101281,7.925,,S,D,,Ruotsinphyhtaa. Finland New York. NY
+third,no,Andersson. Miss. Ida Augusta Margareta,female,38.0,4,2,347091,7.775,,S,,,Vadsbro. Sweden Ministee. MI
+third,no,Andersson. Miss. Ingeborg Constanzia,female,9.0,4,2,347082,31.275,,S,,,Sweden Winnipeg. MN
+third,no,Andersson. Miss. Sigrid Elisabeth,female,11.0,4,2,347082,31.275,,S,,,Sweden Winnipeg. MN
+third,no,Andersson. Mr. Anders Johan,male,39.0,1,5,347082,31.275,,S,,,Sweden Winnipeg. MN
+third,yes,Andersson. Mr. August Edvard (Wennerstrom),male,27.0,0,0,350043,7.7958,,S,A,,
+third,no,Andersson. Mr. Johan Samuel,male,26.0,0,0,347075,7.775,,S,,,Hartford. CT
+third,no,Andersson. Mrs. Anders Johan (Alfrida Konstantia Brogren),female,39.0,1,5,347082,31.275,,S,,,Sweden Winnipeg. MN
+third,no,Andreasson. Mr. Paul Edvin,male,20.0,0,0,347466,7.8542,,S,,,Sweden Chicago. IL
+third,no,Angheloff. Mr. Minko,male,26.0,0,0,349202,7.8958,,S,,,Bulgaria Chicago. IL
+third,no,Arnold-Franchi. Mr. Josef,male,25.0,1,0,349237,17.8,,S,,,Altdorf. Switzerland
+third,no,Arnold-Franchi. Mrs. Josef (Josefine Franchi),female,18.0,1,0,349237,17.8,,S,,,Altdorf. Switzerland
+third,no,Aronsson. Mr. Ernst Axel Algot,male,24.0,0,0,349911,7.775,,S,,,Sweden Joliet. IL
+third,no,Asim. Mr. Adola,male,35.0,0,0,SOTON/O.Q. 3101310,7.05,,S,,,
+third,no,Asplund. Master. Carl Edgar,male,5.0,4,2,347077,31.3875,,S,,,Sweden  Worcester. MA
+third,no,Asplund. Master. Clarence Gustaf Hugo,male,9.0,4,2,347077,31.3875,,S,,,Sweden Worcester. MA
+third,yes,Asplund. Master. Edvin Rojj Felix,male,3.0,4,2,347077,31.3875,,S,15,,Sweden Worcester. MA
+third,no,Asplund. Master. Filip Oscar,male,13.0,4,2,347077,31.3875,,S,,,Sweden Worcester. MA
+third,yes,Asplund. Miss. Lillian Gertrud,female,5.0,4,2,347077,31.3875,,S,15,,Sweden Worcester. MA
+third,no,Asplund. Mr. Carl Oscar Vilhelm Gustafsson,male,40.0,1,5,347077,31.3875,,S,,142.0,Sweden  Worcester. MA
+third,yes,Asplund. Mr. Johan Charles,male,23.0,0,0,350054,7.7958,,S,13,,Oskarshamn. Sweden Minneapolis. MN
+third,yes,Asplund. Mrs. Carl Oscar (Selma Augusta Emilia Johansson),female,38.0,1,5,347077,31.3875,,S,15,,Sweden  Worcester. MA
+third,yes,Assaf Khalil. Mrs. Mariana (Miriam),female,45.0,0,0,2696,7.225,,C,C,,Ottawa. ON
+third,no,Assaf. Mr. Gerios,male,21.0,0,0,2692,7.225,,C,,,Ottawa. ON
+third,no,Assam. Mr. Ali,male,23.0,0,0,SOTON/O.Q. 3101309,7.05,,S,,,
+third,no,Attalah. Miss. Malake,female,17.0,0,0,2627,14.4583,,C,,,
+third,no,Attalah. Mr. Sleiman,male,30.0,0,0,2694,7.225,,C,,,Ottawa. ON
+third,no,Augustsson. Mr. Albert,male,23.0,0,0,347468,7.8542,,S,,,Krakoryd. Sweden Bloomington. IL
+third,yes,Ayoub. Miss. Banoura,female,13.0,0,0,2687,7.2292,,C,C,,Syria Youngstown. OH
+third,no,Baccos. Mr. Raffull,male,20.0,0,0,2679,7.225,,C,,,
+third,no,Backstrom. Mr. Karl Alfred,male,32.0,1,0,3101278,15.85,,S,D,,Ruotsinphytaa. Finland New York. NY
+third,yes,Backstrom. Mrs. Karl Alfred (Maria Mathilda Gustafsson),female,33.0,3,0,3101278,15.85,,S,,,Ruotsinphytaa. Finland New York. NY
+third,yes,Baclini. Miss. Eugenie,female,0.75,2,1,2666,19.2583,,C,C,,Syria New York. NY
+third,yes,Baclini. Miss. Helene Barbara,female,0.75,2,1,2666,19.2583,,C,C,,Syria New York. NY
+third,yes,Baclini. Miss. Marie Catherine,female,5.0,2,1,2666,19.2583,,C,C,,Syria New York. NY
+third,yes,Baclini. Mrs. Solomon (Latifa Qurban),female,24.0,0,3,2666,19.2583,,C,C,,Syria New York. NY
+third,yes,Badman. Miss. Emily Louisa,female,18.0,0,0,A/4 31416,8.05,,S,C,,London Skanteales. NY
+third,no,Badt. Mr. Mohamed,male,40.0,0,0,2623,7.225,,C,,,
+third,no,Balkic. Mr. Cerin,male,26.0,0,0,349248,7.8958,,S,,,
+third,yes,Barah. Mr. Hanna Assi,male,20.0,0,0,2663,7.2292,,C,15,,
+third,no,Barbara. Miss. Saiide,female,18.0,0,1,2691,14.4542,,C,,,Syria Ottawa. ON
+third,no,Barbara. Mrs. (Catherine David),female,45.0,0,1,2691,14.4542,,C,,,Syria Ottawa. ON
+third,no,Barry. Miss. Julia,female,27.0,0,0,330844,7.8792,,Q,,,New York. NY
+third,no,Barton. Mr. David John,male,22.0,0,0,324669,8.05,,S,,,England New York. NY
+third,no,Beavan. Mr. William Thomas,male,19.0,0,0,323951,8.05,,S,,,England
+third,no,Bengtsson. Mr. John Viktor,male,26.0,0,0,347068,7.775,,S,,,Krakudden. Sweden Moune. IL
+third,no,Berglund. Mr. Karl Ivar Sven,male,22.0,0,0,PP 4348,9.35,,S,,,Tranvik. Finland New York
+third,no,Betros. Master. Seman,male,,0,0,2622,7.2292,,C,,,
+third,no,Betros. Mr. Tannous,male,20.0,0,0,2648,4.0125,,C,,,Syria
+third,yes,Bing. Mr. Lee,male,32.0,0,0,1601,56.4958,,S,C,,Hong Kong New York. NY
+third,no,Birkeland. Mr. Hans Martin Monsen,male,21.0,0,0,312992,7.775,,S,,,Brennes. Norway New York
+third,no,Bjorklund. Mr. Ernst Herbert,male,18.0,0,0,347090,7.75,,S,,,Stockholm. Sweden New York
+third,no,Bostandyeff. Mr. Guentcho,male,26.0,0,0,349224,7.8958,,S,,,Bulgaria Chicago. IL
+third,no,Boulos. Master. Akar,male,6.0,1,1,2678,15.2458,,C,,,Syria Kent. ON
+third,no,Boulos. Miss. Nourelain,female,9.0,1,1,2678,15.2458,,C,,,Syria Kent. ON
+third,no,Boulos. Mr. Hanna,male,,0,0,2664,7.225,,C,,,Syria
+third,no,Boulos. Mrs. Joseph (Sultana),female,,0,2,2678,15.2458,,C,,,Syria Kent. ON
+third,no,Bourke. Miss. Mary,female,,0,2,364848,7.75,,Q,,,Ireland Chicago. IL
+third,no,Bourke. Mr. John,male,40.0,1,1,364849,15.5,,Q,,,Ireland Chicago. IL
+third,no,Bourke. Mrs. John (Catherine),female,32.0,1,1,364849,15.5,,Q,,,Ireland Chicago. IL
+third,no,Bowen. Mr. David John Daiowen,male,21.0,0,0,54636,16.1,,S,,,Treherbert. Cardiff. Wales
+third,yes,Bradley. Miss. Bridget Delia,female,22.0,0,0,334914,7.725,,Q,13,,Kingwilliamstown. Co Cork. Ireland Glens Falls. NY
+third,no,Braf. Miss. Elin Ester Maria,female,20.0,0,0,347471,7.8542,,S,,,Medeltorp. Sweden Chicago. IL
+third,no,Braund. Mr. Lewis Richard,male,29.0,1,0,3460,7.0458,,S,,,Bridgerule. Devon
+third,no,Braund. Mr. Owen Harris,male,22.0,1,0,A/5 21171,7.25,,S,,,Bridgerule. Devon
+third,no,Brobeck. Mr. Karl Rudolf,male,22.0,0,0,350045,7.7958,,S,,,Sweden Worcester. MA
+third,no,Brocklebank. Mr. William Alfred,male,35.0,0,0,364512,8.05,,S,,,Broomfield. Chelmsford. England
+third,no,Buckley. Miss. Katherine,female,18.5,0,0,329944,7.2833,,Q,,299.0,Co Cork. Ireland Roxbury. MA
+third,yes,Buckley. Mr. Daniel,male,21.0,0,0,330920,7.8208,,Q,13,,Kingwilliamstown. Co Cork. Ireland New York. NY
+third,no,Burke. Mr. Jeremiah,male,19.0,0,0,365222,6.75,,Q,,,Co Cork. Ireland Charlestown. MA
+third,no,Burns. Miss. Mary Delia,female,18.0,0,0,330963,7.8792,,Q,,,Co Sligo. Ireland New York. NY
+third,no,Cacic. Miss. Manda,female,21.0,0,0,315087,8.6625,,S,,,
+third,no,Cacic. Miss. Marija,female,30.0,0,0,315084,8.6625,,S,,,
+third,no,Cacic. Mr. Jego Grga,male,18.0,0,0,315091,8.6625,,S,,,
+third,no,Cacic. Mr. Luka,male,38.0,0,0,315089,8.6625,,S,,,Croatia
+third,no,Calic. Mr. Jovo,male,17.0,0,0,315093,8.6625,,S,,,
+third,no,Calic. Mr. Petar,male,17.0,0,0,315086,8.6625,,S,,,
+third,no,Canavan. Miss. Mary,female,21.0,0,0,364846,7.75,,Q,,,
+third,no,Canavan. Mr. Patrick,male,21.0,0,0,364858,7.75,,Q,,,Ireland Philadelphia. PA
+third,no,Cann. Mr. Ernest Charles,male,21.0,0,0,A./5. 2152,8.05,,S,,,
+third,no,Caram. Mr. Joseph,male,,1,0,2689,14.4583,,C,,,Ottawa. ON
+third,no,Caram. Mrs. Joseph (Maria Elias),female,,1,0,2689,14.4583,,C,,,Ottawa. ON
+third,no,Carlsson. Mr. August Sigfrid,male,28.0,0,0,350042,7.7958,,S,,,Dagsas. Sweden Fower. MN
+third,no,Carlsson. Mr. Carl Robert,male,24.0,0,0,350409,7.8542,,S,,,Goteborg. Sweden Huntley. IL
+third,yes,Carr. Miss. Helen Ellen,female,16.0,0,0,367231,7.75,,Q,16,,Co Longford. Ireland New York. NY
+third,no,Carr. Miss. Jeannie,female,37.0,0,0,368364,7.75,,Q,,,Co Sligo. Ireland Hartford. CT
+third,no,Carver. Mr. Alfred John,male,28.0,0,0,392095,7.25,,S,,,St Denys. Southampton. Hants
+third,no,Celotti. Mr. Francesco,male,24.0,0,0,343275,8.05,,S,,,London
+third,no,Charters. Mr. David,male,21.0,0,0,A/5. 13032,7.7333,,Q,,,Ireland New York. NY
+third,yes,Chip. Mr. Chang,male,32.0,0,0,1601,56.4958,,S,C,,Hong Kong New York. NY
+third,no,Christmann. Mr. Emil,male,29.0,0,0,343276,8.05,,S,,,
+third,no,Chronopoulos. Mr. Apostolos,male,26.0,1,0,2680,14.4542,,C,,,Greece
+third,no,Chronopoulos. Mr. Demetrios,male,18.0,1,0,2680,14.4542,,C,,,Greece
+third,no,Coelho. Mr. Domingos Fernandeo,male,20.0,0,0,SOTON/O.Q. 3101307,7.05,,S,,,Portugal
+third,yes,Cohen. Mr. Gurshon Gus,male,18.0,0,0,A/5 3540,8.05,,S,12,,London Brooklyn. NY
+third,no,Colbert. Mr. Patrick,male,24.0,0,0,371109,7.25,,Q,,,Co Limerick. Ireland Sherbrooke. PQ
+third,no,Coleff. Mr. Peju,male,36.0,0,0,349210,7.4958,,S,,,Bulgaria Chicago. IL
+third,no,Coleff. Mr. Satio,male,24.0,0,0,349209,7.4958,,S,,,
+third,no,Conlon. Mr. Thomas Henry,male,31.0,0,0,21332,7.7333,,Q,,,Philadelphia. PA
+third,no,Connaghton. Mr. Michael,male,31.0,0,0,335097,7.75,,Q,,,Ireland Brooklyn. NY
+third,yes,Connolly. Miss. Kate,female,22.0,0,0,370373,7.75,,Q,13,,Ireland
+third,no,Connolly. Miss. Kate,female,30.0,0,0,330972,7.6292,,Q,,,Ireland
+third,no,Connors. Mr. Patrick,male,70.5,0,0,370369,7.75,,Q,,171.0,
+third,no,Cook. Mr. Jacob,male,43.0,0,0,A/5 3536,8.05,,S,,,
+third,no,Cor. Mr. Bartol,male,35.0,0,0,349230,7.8958,,S,,,Austria
+third,no,Cor. Mr. Ivan,male,27.0,0,0,349229,7.8958,,S,,,Austria
+third,no,Cor. Mr. Liudevit,male,19.0,0,0,349231,7.8958,,S,,,Austria
+third,no,Corn. Mr. Harry,male,30.0,0,0,SOTON/OQ 392090,8.05,,S,,,London
+third,yes,Coutts. Master. Eden Leslie Neville,male,9.0,1,1,C.A. 37671,15.9,,S,2,,England Brooklyn. NY
+third,yes,Coutts. Master. William Loch William,male,3.0,1,1,C.A. 37671,15.9,,S,2,,England Brooklyn. NY
+third,yes,Coutts. Mrs. William (Winnie Minnie Treanor),female,36.0,0,2,C.A. 37671,15.9,,S,2,,England Brooklyn. NY
+third,no,Coxon. Mr. Daniel,male,59.0,0,0,364500,7.25,,S,,,Merrill. WI
+third,no,Crease. Mr. Ernest James,male,19.0,0,0,S.P. 3464,8.1583,,S,,,Bristol. England Cleveland. OH
+third,yes,Cribb. Miss. Laura Alice,female,17.0,0,1,371362,16.1,,S,12,,Bournemouth. England Newark. NJ
+third,no,Cribb. Mr. John Hatfield,male,44.0,0,1,371362,16.1,,S,,,Bournemouth. England Newark. NJ
+third,no,Culumovic. Mr. Jeso,male,17.0,0,0,315090,8.6625,,S,,,Austria-Hungary
+third,no,Daher. Mr. Shedid,male,22.5,0,0,2698,7.225,,C,,9.0,
+third,yes,Dahl. Mr. Karl Edwart,male,45.0,0,0,7598,8.05,,S,15,,Australia Fingal. ND
+third,no,Dahlberg. Miss. Gerda Ulrika,female,22.0,0,0,7552,10.5167,,S,,,Norrlot. Sweden Chicago. IL
+third,no,Dakic. Mr. Branko,male,19.0,0,0,349228,10.1708,,S,,,Austria
+third,yes,Daly. Miss. Margaret Marcella Maggie,female,30.0,0,0,382650,6.95,,Q,15,,Co Athlone. Ireland New York. NY
+third,yes,Daly. Mr. Eugene Patrick,male,29.0,0,0,382651,7.75,,Q,13 15 B,,Co Athlone. Ireland New York. NY
+third,no,Danbom. Master. Gilbert Sigvard Emanuel,male,0.3333,0,2,347080,14.4,,S,,,Stanton. IA
+third,no,Danbom. Mr. Ernst Gilbert,male,34.0,1,1,347080,14.4,,S,,197.0,Stanton. IA
+third,no,Danbom. Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren),female,28.0,1,1,347080,14.4,,S,,,Stanton. IA
+third,no,Danoff. Mr. Yoto,male,27.0,0,0,349219,7.8958,,S,,,Bulgaria Chicago. IL
+third,no,Dantcheff. Mr. Ristiu,male,25.0,0,0,349203,7.8958,,S,,,Bulgaria Chicago. IL
+third,no,Davies. Mr. Alfred J,male,24.0,2,0,A/4 48871,24.15,,S,,,West Bromwich. England Pontiac. MI
+third,no,Davies. Mr. Evan,male,22.0,0,0,SC/A4 23568,8.05,,S,,,
+third,no,Davies. Mr. John Samuel,male,21.0,2,0,A/4 48871,24.15,,S,,,West Bromwich. England Pontiac. MI
+third,no,Davies. Mr. Joseph,male,17.0,2,0,A/4 48873,8.05,,S,,,West Bromwich. England Pontiac. MI
+third,no,Davison. Mr. Thomas Henry,male,,1,0,386525,16.1,,S,,,Liverpool. England Bedford. OH
+third,yes,Davison. Mrs. Thomas Henry (Mary E Finck),female,,1,0,386525,16.1,,S,16,,Liverpool. England Bedford. OH
+third,yes,de Messemaeker. Mr. Guillaume Joseph,male,36.5,1,0,345572,17.4,,S,15,,Tampico. MT
+third,yes,de Messemaeker. Mrs. Guillaume Joseph (Emma),female,36.0,1,0,345572,17.4,,S,13,,Tampico. MT
+third,yes,de Mulder. Mr. Theodore,male,30.0,0,0,345774,9.5,,S,11,,Belgium Detroit. MI
+third,no,de Pelsmaeker. Mr. Alfons,male,16.0,0,0,345778,9.5,,S,,,
+third,yes,Dean. Master. Bertram Vere,male,1.0,1,2,C.A. 2315,20.575,,S,10,,Devon. England Wichita. KS
+third,yes,Dean. Miss. Elizabeth Gladys Millvina,female,0.1667,1,2,C.A. 2315,20.575,,S,10,,Devon. England Wichita. KS
+third,no,Dean. Mr. Bertram Frank,male,26.0,1,2,C.A. 2315,20.575,,S,,,Devon. England Wichita. KS
+third,yes,Dean. Mrs. Bertram (Eva Georgetta Light),female,33.0,1,2,C.A. 2315,20.575,,S,10,,Devon. England Wichita. KS
+third,no,Delalic. Mr. Redjo,male,25.0,0,0,349250,7.8958,,S,,,
+third,no,Demetri. Mr. Marinko,male,,0,0,349238,7.8958,,S,,,
+third,no,Denkoff. Mr. Mitto,male,,0,0,349225,7.8958,,S,,,Bulgaria Coon Rapids. IA
+third,no,Dennis. Mr. Samuel,male,22.0,0,0,A/5 21172,7.25,,S,,,
+third,no,Dennis. Mr. William,male,36.0,0,0,A/5 21175,7.25,,S,,,
+third,yes,Devaney. Miss. Margaret Delia,female,19.0,0,0,330958,7.8792,,Q,C,,Kilmacowen. Co Sligo. Ireland New York. NY
+third,no,Dika. Mr. Mirko,male,17.0,0,0,349232,7.8958,,S,,,
+third,no,Dimic. Mr. Jovan,male,42.0,0,0,315088,8.6625,,S,,,
+third,no,Dintcheff. Mr. Valtcho,male,43.0,0,0,349226,7.8958,,S,,,
+third,no,Doharr. Mr. Tannous,male,,0,0,2686,7.2292,,C,,,
+third,no,Dooley. Mr. Patrick,male,32.0,0,0,370376,7.75,,Q,,,Ireland New York. NY
+third,yes,Dorking. Mr. Edward Arthur,male,19.0,0,0,A/5. 10482,8.05,,S,B,,England Oglesby. IL
+third,yes,Dowdell. Miss. Elizabeth,female,30.0,0,0,364516,12.475,,S,13,,Union Hill. NJ
+third,no,Doyle. Miss. Elizabeth,female,24.0,0,0,368702,7.75,,Q,,,Ireland New York. NY
+third,yes,Drapkin. Miss. Jennie,female,23.0,0,0,SOTON/OQ 392083,8.05,,S,,,London New York. NY
+third,no,Drazenoic. Mr. Jozef,male,33.0,0,0,349241,7.8958,,C,,51.0,Austria Niagara Falls. NY
+third,no,Duane. Mr. Frank,male,65.0,0,0,336439,7.75,,Q,,,
+third,yes,Duquemin. Mr. Joseph,male,24.0,0,0,S.O./P.P. 752,7.55,,S,D,,England Albion. NY
+third,no,Dyker. Mr. Adolf Fredrik,male,23.0,1,0,347072,13.9,,S,,,West Haven. CT
+third,yes,Dyker. Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson),female,22.0,1,0,347072,13.9,,S,16,,West Haven. CT
+third,no,Edvardsson. Mr. Gustaf Hjalmar,male,18.0,0,0,349912,7.775,,S,,,Tofta. Sweden Joliet. IL
+third,no,Eklund. Mr. Hans Linus,male,16.0,0,0,347074,7.775,,S,,,Karberg. Sweden Jerome Junction. AZ
+third,no,Ekstrom. Mr. Johan,male,45.0,0,0,347061,6.975,,S,,,Effington Rut. SD
+third,no,Elias. Mr. Dibo,male,,0,0,2674,7.225,,C,,,
+third,no,Elias. Mr. Joseph,male,39.0,0,2,2675,7.2292,,C,,,Syria Ottawa. ON
+third,no,Elias. Mr. Joseph Jr,male,17.0,1,1,2690,7.2292,,C,,,
+third,no,Elias. Mr. Tannous,male,15.0,1,1,2695,7.2292,,C,,,Syria
+third,no,Elsbury. Mr. William James,male,47.0,0,0,A/5 3902,7.25,,S,,,Illinois. USA
+third,yes,Emanuel. Miss. Virginia Ethel,female,5.0,0,0,364516,12.475,,S,13,,New York. NY
+third,no,Emir. Mr. Farred Chehab,male,,0,0,2631,7.225,,C,,,
+third,no,Everett. Mr. Thomas James,male,40.5,0,0,C.A. 6212,15.1,,S,,187.0,
+third,no,Farrell. Mr. James,male,40.5,0,0,367232,7.75,,Q,,68.0,Aughnacliff. Co Longford. Ireland New York. NY
+third,yes,Finoli. Mr. Luigi,male,,0,0,SOTON/O.Q. 3101308,7.05,,S,15,,Italy Philadelphia. PA
+third,no,Fischer. Mr. Eberhard Thelander,male,18.0,0,0,350036,7.7958,,S,,,
+third,no,Fleming. Miss. Honora,female,,0,0,364859,7.75,,Q,,,
+third,no,Flynn. Mr. James,male,,0,0,364851,7.75,,Q,,,
+third,no,Flynn. Mr. John,male,,0,0,368323,6.95,,Q,,,
+third,no,Foley. Mr. Joseph,male,26.0,0,0,330910,7.8792,,Q,,,Ireland Chicago. IL
+third,no,Foley. Mr. William,male,,0,0,365235,7.75,,Q,,,Ireland
+third,yes,Foo. Mr. Choong,male,,0,0,1601,56.4958,,S,13,,Hong Kong New York. NY
+third,no,Ford. Miss. Doolina Margaret Daisy,female,21.0,2,2,W./C. 6608,34.375,,S,,,Rotherfield. Sussex. England Essex Co. MA
+third,no,Ford. Miss. Robina Maggie Ruby,female,9.0,2,2,W./C. 6608,34.375,,S,,,Rotherfield. Sussex. England Essex Co. MA
+third,no,Ford. Mr. Arthur,male,,0,0,A/5 1478,8.05,,S,,,Bridgwater. Somerset. England
+third,no,Ford. Mr. Edward Watson,male,18.0,2,2,W./C. 6608,34.375,,S,,,Rotherfield. Sussex. England Essex Co. MA
+third,no,Ford. Mr. William Neal,male,16.0,1,3,W./C. 6608,34.375,,S,,,Rotherfield. Sussex. England Essex Co. MA
+third,no,Ford. Mrs. Edward (Margaret Ann Watson),female,48.0,1,3,W./C. 6608,34.375,,S,,,Rotherfield. Sussex. England Essex Co. MA
+third,no,Fox. Mr. Patrick,male,,0,0,368573,7.75,,Q,,,Ireland New York. NY
+third,no,Franklin. Mr. Charles (Charles Fardon),male,,0,0,SOTON/O.Q. 3101314,7.25,,S,,,
+third,no,Gallagher. Mr. Martin,male,25.0,0,0,36864,7.7417,,Q,,,New York. NY
+third,no,Garfirth. Mr. John,male,,0,0,358585,14.5,,S,,,
+third,no,Gheorgheff. Mr. Stanio,male,,0,0,349254,7.8958,,C,,,
+third,no,Gilinski. Mr. Eliezer,male,22.0,0,0,14973,8.05,,S,,47.0,
+third,yes,Gilnagh. Miss. Katherine Katie,female,16.0,0,0,35851,7.7333,,Q,16,,Co Longford. Ireland New York. NY
+third,yes,Glynn. Miss. Mary Agatha,female,,0,0,335677,7.75,,Q,13,,Co Clare. Ireland Washington. DC
+third,yes,Goldsmith. Master. Frank John William Frankie,male,9.0,0,2,363291,20.525,,S,C D,,Strood. Kent. England Detroit. MI
+third,no,Goldsmith. Mr. Frank John,male,33.0,1,1,363291,20.525,,S,,,Strood. Kent. England Detroit. MI
+third,no,Goldsmith. Mr. Nathan,male,41.0,0,0,SOTON/O.Q. 3101263,7.85,,S,,,Philadelphia. PA
+third,yes,Goldsmith. Mrs. Frank John (Emily Alice Brown),female,31.0,1,1,363291,20.525,,S,C D,,Strood. Kent. England Detroit. MI
+third,no,Goncalves. Mr. Manuel Estanslas,male,38.0,0,0,SOTON/O.Q. 3101306,7.05,,S,,,Portugal
+third,no,Goodwin. Master. Harold Victor,male,9.0,5,2,CA 2144,46.9,,S,,,Wiltshire. England Niagara Falls. NY
+third,no,Goodwin. Master. Sidney Leonard,male,1.0,5,2,CA 2144,46.9,,S,,,Wiltshire. England Niagara Falls. NY
+third,no,Goodwin. Master. William Frederick,male,11.0,5,2,CA 2144,46.9,,S,,,Wiltshire. England Niagara Falls. NY
+third,no,Goodwin. Miss. Jessie Allis,female,10.0,5,2,CA 2144,46.9,,S,,,Wiltshire. England Niagara Falls. NY
+third,no,Goodwin. Miss. Lillian Amy,female,16.0,5,2,CA 2144,46.9,,S,,,Wiltshire. England Niagara Falls. NY
+third,no,Goodwin. Mr. Charles Edward,male,14.0,5,2,CA 2144,46.9,,S,,,Wiltshire. England Niagara Falls. NY
+third,no,Goodwin. Mr. Charles Frederick,male,40.0,1,6,CA 2144,46.9,,S,,,Wiltshire. England Niagara Falls. NY
+third,no,Goodwin. Mrs. Frederick (Augusta Tyler),female,43.0,1,6,CA 2144,46.9,,S,,,Wiltshire. England Niagara Falls. NY
+third,no,Green. Mr. George Henry,male,51.0,0,0,21440,8.05,,S,,,Dorking. Surrey. England
+third,no,Gronnestad. Mr. Daniel Danielsen,male,32.0,0,0,8471,8.3625,,S,,,Foresvik. Norway Portland. ND
+third,no,Guest. Mr. Robert,male,,0,0,376563,8.05,,S,,,
+third,no,Gustafsson. Mr. Alfred Ossian,male,20.0,0,0,7534,9.8458,,S,,,Waukegan. Chicago. IL
+third,no,Gustafsson. Mr. Anders Vilhelm,male,37.0,2,0,3101276,7.925,,S,,98.0,Ruotsinphytaa. Finland New York. NY
+third,no,Gustafsson. Mr. Johan Birger,male,28.0,2,0,3101277,7.925,,S,,,Ruotsinphytaa. Finland New York. NY
+third,no,Gustafsson. Mr. Karl Gideon,male,19.0,0,0,347069,7.775,,S,,,Myren. Sweden New York. NY
+third,no,Haas. Miss. Aloisia,female,24.0,0,0,349236,8.85,,S,,,
+third,no,Hagardon. Miss. Kate,female,17.0,0,0,AQ/3. 30631,7.7333,,Q,,,
+third,no,Hagland. Mr. Ingvald Olai Olsen,male,,1,0,65303,19.9667,,S,,,
+third,no,Hagland. Mr. Konrad Mathias Reiersen,male,,1,0,65304,19.9667,,S,,,
+third,no,Hakkarainen. Mr. Pekka Pietari,male,28.0,1,0,STON/O2. 3101279,15.85,,S,,,
+third,yes,Hakkarainen. Mrs. Pekka Pietari (Elin Matilda Dolck),female,24.0,1,0,STON/O2. 3101279,15.85,,S,15,,
+third,no,Hampe. Mr. Leon,male,20.0,0,0,345769,9.5,,S,,,
+third,no,Hanna. Mr. Mansour,male,23.5,0,0,2693,7.2292,,C,,188.0,
+third,no,Hansen. Mr. Claus Peter,male,41.0,2,0,350026,14.1083,,S,,,
+third,no,Hansen. Mr. Henrik Juul,male,26.0,1,0,350025,7.8542,,S,,,
+third,no,Hansen. Mr. Henry Damsgaard,male,21.0,0,0,350029,7.8542,,S,,69.0,
+third,yes,Hansen. Mrs. Claus Peter (Jennie L Howard),female,45.0,1,0,350026,14.1083,,S,11,,
+third,no,Harknett. Miss. Alice Phoebe,female,,0,0,W./C. 6609,7.55,,S,,,
+third,no,Harmer. Mr. Abraham (David Lishin),male,25.0,0,0,374887,7.25,,S,B,,
+third,no,Hart. Mr. Henry,male,,0,0,394140,6.8583,,Q,,,
+third,no,Hassan. Mr. Houssein G N,male,11.0,0,0,2699,18.7875,,C,,,
+third,yes,Healy. Miss. Hanora Nora,female,,0,0,370375,7.75,,Q,16,,
+third,yes,Hedman. Mr. Oskar Arvid,male,27.0,0,0,347089,6.975,,S,15,,
+third,yes,Hee. Mr. Ling,male,,0,0,1601,56.4958,,S,C,,
+third,no,Hegarty. Miss. Hanora Nora,female,18.0,0,0,365226,6.75,,Q,,,
+third,yes,Heikkinen. Miss. Laina,female,26.0,0,0,STON/O2. 3101282,7.925,,S,,,
+third,no,Heininen. Miss. Wendla Maria,female,23.0,0,0,STON/O2. 3101290,7.925,,S,,,
+third,yes,Hellstrom. Miss. Hilda Maria,female,22.0,0,0,7548,8.9625,,S,C,,
+third,no,Hendekovic. Mr. Ignjac,male,28.0,0,0,349243,7.8958,,S,,306.0,
+third,no,Henriksson. Miss. Jenny Lovisa,female,28.0,0,0,347086,7.775,,S,,,
+third,no,Henry. Miss. Delia,female,,0,0,382649,7.75,,Q,,,
+third,yes,Hirvonen. Miss. Hildur E,female,2.0,0,1,3101298,12.2875,,S,15,,
+third,yes,Hirvonen. Mrs. Alexander (Helga E Lindqvist),female,22.0,1,1,3101298,12.2875,,S,15,,
+third,no,Holm. Mr. John Fredrik Alexander,male,43.0,0,0,C 7075,6.45,,S,,,
+third,no,Holthen. Mr. Johan Martin,male,28.0,0,0,C 4001,22.525,,S,,,
+third,yes,Honkanen. Miss. Eliina,female,27.0,0,0,STON/O2. 3101283,7.925,,S,,,
+third,no,Horgan. Mr. John,male,,0,0,370377,7.75,,Q,,,
+third,yes,Howard. Miss. May Elizabeth,female,,0,0,A. 2. 39186,8.05,,S,C,,
+third,no,Humblen. Mr. Adolf Mathias Nicolai Olsen,male,42.0,0,0,348121,7.65,F G63,S,,120.0,
+third,yes,Hyman. Mr. Abraham,male,,0,0,3470,7.8875,,S,C,,
+third,no,Ibrahim Shawah. Mr. Yousseff,male,30.0,0,0,2685,7.2292,,C,,,
+third,no,Ilieff. Mr. Ylio,male,,0,0,349220,7.8958,,S,,,
+third,no,Ilmakangas. Miss. Ida Livija,female,27.0,1,0,STON/O2. 3101270,7.925,,S,,,
+third,no,Ilmakangas. Miss. Pieta Sofia,female,25.0,1,0,STON/O2. 3101271,7.925,,S,,,
+third,no,Ivanoff. Mr. Kanio,male,,0,0,349201,7.8958,,S,,,
+third,yes,Jalsevac. Mr. Ivan,male,29.0,0,0,349240,7.8958,,C,15,,
+third,yes,Jansson. Mr. Carl Olof,male,21.0,0,0,350034,7.7958,,S,A,,
+third,no,Jardin. Mr. Jose Neto,male,,0,0,SOTON/O.Q. 3101305,7.05,,S,,,
+third,no,Jensen. Mr. Hans Peder,male,20.0,0,0,350050,7.8542,,S,,,
+third,no,Jensen. Mr. Niels Peder,male,48.0,0,0,350047,7.8542,,S,,,
+third,no,Jensen. Mr. Svend Lauritz,male,17.0,1,0,350048,7.0542,,S,,,
+third,yes,Jermyn. Miss. Annie,female,,0,0,14313,7.75,,Q,D,,
+third,yes,Johannesen-Bratthammer. Mr. Bernt,male,,0,0,65306,8.1125,,S,13,,
+third,no,Johanson. Mr. Jakob Alfred,male,34.0,0,0,3101264,6.4958,,S,,143.0,
+third,yes,Johansson Palmquist. Mr. Oskar Leander,male,26.0,0,0,347070,7.775,,S,15,,
+third,no,Johansson. Mr. Erik,male,22.0,0,0,350052,7.7958,,S,,156.0,
+third,no,Johansson. Mr. Gustaf Joel,male,33.0,0,0,7540,8.6542,,S,,285.0,
+third,no,Johansson. Mr. Karl Johan,male,31.0,0,0,347063,7.775,,S,,,
+third,no,Johansson. Mr. Nils,male,29.0,0,0,347467,7.8542,,S,,,
+third,yes,Johnson. Master. Harold Theodor,male,4.0,1,1,347742,11.1333,,S,15,,
+third,yes,Johnson. Miss. Eleanor Ileen,female,1.0,1,1,347742,11.1333,,S,15,,
+third,no,Johnson. Mr. Alfred,male,49.0,0,0,LINE,0.0,,S,,,
+third,no,Johnson. Mr. Malkolm Joackim,male,33.0,0,0,347062,7.775,,S,,37.0,
+third,no,Johnson. Mr. William Cahoone Jr,male,19.0,0,0,LINE,0.0,,S,,,
+third,yes,Johnson. Mrs. Oscar W (Elisabeth Vilhelmina Berg),female,27.0,0,2,347742,11.1333,,S,15,,
+third,no,Johnston. Master. William Arthur Willie,male,,1,2,W./C. 6607,23.45,,S,,,
+third,no,Johnston. Miss. Catherine Helen Carrie,female,,1,2,W./C. 6607,23.45,,S,,,
+third,no,Johnston. Mr. Andrew G,male,,1,2,W./C. 6607,23.45,,S,,,
+third,no,Johnston. Mrs. Andrew G (Elizabeth Lily Watson),female,,1,2,W./C. 6607,23.45,,S,,,
+third,no,Jonkoff. Mr. Lalio,male,23.0,0,0,349204,7.8958,,S,,,
+third,yes,Jonsson. Mr. Carl,male,32.0,0,0,350417,7.8542,,S,15,,
+third,no,Jonsson. Mr. Nils Hilding,male,27.0,0,0,350408,7.8542,,S,,,
+third,no,Jussila. Miss. Katriina,female,20.0,1,0,4136,9.825,,S,,,
+third,no,Jussila. Miss. Mari Aina,female,21.0,1,0,4137,9.825,,S,,,
+third,yes,Jussila. Mr. Eiriik,male,32.0,0,0,STON/O 2. 3101286,7.925,,S,15,,
+third,no,Kallio. Mr. Nikolai Erland,male,17.0,0,0,STON/O 2. 3101274,7.125,,S,,,
+third,no,Kalvik. Mr. Johannes Halvorsen,male,21.0,0,0,8475,8.4333,,S,,,
+third,no,Karaic. Mr. Milan,male,30.0,0,0,349246,7.8958,,S,,,
+third,yes,Karlsson. Mr. Einar Gervasius,male,21.0,0,0,350053,7.7958,,S,13,,
+third,no,Karlsson. Mr. Julius Konrad Eugen,male,33.0,0,0,347465,7.8542,,S,,,
+third,no,Karlsson. Mr. Nils August,male,22.0,0,0,350060,7.5208,,S,,,
+third,yes,Karun. Miss. Manca,female,4.0,0,1,349256,13.4167,,C,15,,
+third,yes,Karun. Mr. Franz,male,39.0,0,1,349256,13.4167,,C,15,,
+third,no,Kassem. Mr. Fared,male,,0,0,2700,7.2292,,C,,,
+third,no,Katavelas. Mr. Vassilios (Catavelas Vassilios),male,18.5,0,0,2682,7.2292,,C,,58.0,
+third,no,Keane. Mr. Andrew Andy,male,,0,0,12460,7.75,,Q,,,
+third,no,Keefe. Mr. Arthur,male,,0,0,323592,7.25,,S,A,,
+third,yes,Kelly. Miss. Anna Katherine Annie Kate,female,,0,0,9234,7.75,,Q,16,,
+third,yes,Kelly. Miss. Mary,female,,0,0,14312,7.75,,Q,D,,
+third,no,Kelly. Mr. James,male,34.5,0,0,330911,7.8292,,Q,,70.0,
+third,no,Kelly. Mr. James,male,44.0,0,0,363592,8.05,,S,,,
+third,yes,Kennedy. Mr. John,male,,0,0,368783,7.75,,Q,,,
+third,no,Khalil. Mr. Betros,male,,1,0,2660,14.4542,,C,,,
+third,no,Khalil. Mrs. Betros (Zahie Maria Elias),female,,1,0,2660,14.4542,,C,,,
+third,no,Kiernan. Mr. John,male,,1,0,367227,7.75,,Q,,,
+third,no,Kiernan. Mr. Philip,male,,1,0,367229,7.75,,Q,,,
+third,no,Kilgannon. Mr. Thomas J,male,,0,0,36865,7.7375,,Q,,,
+third,no,Kink. Miss. Maria,female,22.0,2,0,315152,8.6625,,S,,,
+third,no,Kink. Mr. Vincenz,male,26.0,2,0,315151,8.6625,,S,,,
+third,yes,Kink-Heilmann. Miss. Luise Gretchen,female,4.0,0,2,315153,22.025,,S,2,,
+third,yes,Kink-Heilmann. Mr. Anton,male,29.0,3,1,315153,22.025,,S,2,,
+third,yes,Kink-Heilmann. Mrs. Anton (Luise Heilmann),female,26.0,1,1,315153,22.025,,S,2,,
+third,no,Klasen. Miss. Gertrud Emilia,female,1.0,1,1,350405,12.1833,,S,,,
+third,no,Klasen. Mr. Klas Albin,male,18.0,1,1,350404,7.8542,,S,,,
+third,no,Klasen. Mrs. (Hulda Kristina Eugenia Lofqvist),female,36.0,0,2,350405,12.1833,,S,,,
+third,no,Kraeff. Mr. Theodor,male,,0,0,349253,7.8958,,C,,,
+third,yes,Krekorian. Mr. Neshan,male,25.0,0,0,2654,7.2292,F E57,C,10,,
+third,no,Lahoud. Mr. Sarkis,male,,0,0,2624,7.225,,C,,,
+third,no,Laitinen. Miss. Kristina Sofia,female,37.0,0,0,4135,9.5875,,S,,,
+third,no,Laleff. Mr. Kristo,male,,0,0,349217,7.8958,,S,,,
+third,yes,Lam. Mr. Ali,male,,0,0,1601,56.4958,,S,C,,
+third,no,Lam. Mr. Len,male,,0,0,1601,56.4958,,S,,,
+third,yes,Landergren. Miss. Aurora Adelia,female,22.0,0,0,C 7077,7.25,,S,13,,
+third,no,Lane. Mr. Patrick,male,,0,0,7935,7.75,,Q,,,
+third,yes,Lang. Mr. Fang,male,26.0,0,0,1601,56.4958,,S,14,,
+third,no,Larsson. Mr. August Viktor,male,29.0,0,0,7545,9.4833,,S,,,
+third,no,Larsson. Mr. Bengt Edvin,male,29.0,0,0,347067,7.775,,S,,,
+third,no,Larsson-Rondberg. Mr. Edvard A,male,22.0,0,0,347065,7.775,,S,,,
+third,yes,Leeni. Mr. Fahim (Philip Zenni),male,22.0,0,0,2620,7.225,,C,6,,
+third,no,Lefebre. Master. Henry Forbes,male,,3,1,4133,25.4667,,S,,,
+third,no,Lefebre. Miss. Ida,female,,3,1,4133,25.4667,,S,,,
+third,no,Lefebre. Miss. Jeannie,female,,3,1,4133,25.4667,,S,,,
+third,no,Lefebre. Miss. Mathilde,female,,3,1,4133,25.4667,,S,,,
+third,no,Lefebre. Mrs. Frank (Frances),female,,0,4,4133,25.4667,,S,,,
+third,no,Leinonen. Mr. Antti Gustaf,male,32.0,0,0,STON/O 2. 3101292,7.925,,S,,,
+third,no,Lemberopolous. Mr. Peter L,male,34.5,0,0,2683,6.4375,,C,,196.0,
+third,no,Lennon. Miss. Mary,female,,1,0,370371,15.5,,Q,,,
+third,no,Lennon. Mr. Denis,male,,1,0,370371,15.5,,Q,,,
+third,no,Leonard. Mr. Lionel,male,36.0,0,0,LINE,0.0,,S,,,
+third,no,Lester. Mr. James,male,39.0,0,0,A/4 48871,24.15,,S,,,
+third,no,Lievens. Mr. Rene Aime,male,24.0,0,0,345781,9.5,,S,,,
+third,no,Lindahl. Miss. Agda Thorilda Viktoria,female,25.0,0,0,347071,7.775,,S,,,
+third,no,Lindblom. Miss. Augusta Charlotta,female,45.0,0,0,347073,7.75,,S,,,
+third,no,Lindell. Mr. Edvard Bengtsson,male,36.0,1,0,349910,15.55,,S,A,,
+third,no,Lindell. Mrs. Edvard Bengtsson (Elin Gerda Persson),female,30.0,1,0,349910,15.55,,S,A,,
+third,yes,Lindqvist. Mr. Eino William,male,20.0,1,0,STON/O 2. 3101285,7.925,,S,15,,
+third,no,Linehan. Mr. Michael,male,,0,0,330971,7.8792,,Q,,,
+third,no,Ling. Mr. Lee,male,28.0,0,0,1601,56.4958,,S,,,
+third,no,Lithman. Mr. Simon,male,,0,0,S.O./P.P. 251,7.55,,S,,,
+third,no,Lobb. Mr. William Arthur,male,30.0,1,0,A/5. 3336,16.1,,S,,,
+third,no,Lobb. Mrs. William Arthur (Cordelia K Stanlick),female,26.0,1,0,A/5. 3336,16.1,,S,,,
+third,no,Lockyer. Mr. Edward,male,,0,0,1222,7.8792,,S,,153.0,
+third,no,Lovell. Mr. John Hall (Henry),male,20.5,0,0,A/5 21173,7.25,,S,,,
+third,yes,Lulic. Mr. Nikola,male,27.0,0,0,315098,8.6625,,S,15,,
+third,no,Lundahl. Mr. Johan Svensson,male,51.0,0,0,347743,7.0542,,S,,,
+third,yes,Lundin. Miss. Olga Elida,female,23.0,0,0,347469,7.8542,,S,10,,
+third,yes,Lundstrom. Mr. Thure Edvin,male,32.0,0,0,350403,7.5792,,S,15,,
+third,no,Lyntakoff. Mr. Stanko,male,,0,0,349235,7.8958,,S,,,
+third,no,MacKay. Mr. George William,male,,0,0,C.A. 42795,7.55,,S,,,
+third,yes,Madigan. Miss. Margaret Maggie,female,,0,0,370370,7.75,,Q,15,,
+third,yes,Madsen. Mr. Fridtjof Arne,male,24.0,0,0,C 17369,7.1417,,S,13,,
+third,no,Maenpaa. Mr. Matti Alexanteri,male,22.0,0,0,STON/O 2. 3101275,7.125,,S,,,
+third,no,Mahon. Miss. Bridget Delia,female,,0,0,330924,7.8792,,Q,,,
+third,no,Mahon. Mr. John,male,,0,0,AQ/4 3130,7.75,,Q,,,
+third,no,Maisner. Mr. Simon,male,,0,0,A/S 2816,8.05,,S,,,
+third,no,Makinen. Mr. Kalle Edvard,male,29.0,0,0,STON/O 2. 3101268,7.925,,S,,,
+third,yes,Mamee. Mr. Hanna,male,,0,0,2677,7.2292,,C,15,,
+third,no,Mangan. Miss. Mary,female,30.5,0,0,364850,7.75,,Q,,61.0,
+third,yes,Mannion. Miss. Margareth,female,,0,0,36866,7.7375,,Q,16,,
+third,no,Mardirosian. Mr. Sarkis,male,,0,0,2655,7.2292,F E46,C,,,
+third,no,Markoff. Mr. Marin,male,35.0,0,0,349213,7.8958,,C,,,
+third,no,Markun. Mr. Johann,male,33.0,0,0,349257,7.8958,,S,,,
+third,yes,Masselmani. Mrs. Fatima,female,,0,0,2649,7.225,,C,C,,
+third,no,Matinoff. Mr. Nicola,male,,0,0,349255,7.8958,,C,,,
+third,yes,McCarthy. Miss. Catherine Katie,female,,0,0,383123,7.75,,Q,15 16,,
+third,yes,McCormack. Mr. Thomas Joseph,male,,0,0,367228,7.75,,Q,,,
+third,yes,McCoy. Miss. Agnes,female,,2,0,367226,23.25,,Q,16,,
+third,yes,McCoy. Miss. Alicia,female,,2,0,367226,23.25,,Q,16,,
+third,yes,McCoy. Mr. Bernard,male,,2,0,367226,23.25,,Q,16,,
+third,yes,McDermott. Miss. Brigdet Delia,female,,0,0,330932,7.7875,,Q,13,,
+third,no,McEvoy. Mr. Michael,male,,0,0,36568,15.5,,Q,,,
+third,yes,McGovern. Miss. Mary,female,,0,0,330931,7.8792,,Q,13,,
+third,yes,McGowan. Miss. Anna Annie,female,15.0,0,0,330923,8.0292,,Q,,,
+third,no,McGowan. Miss. Katherine,female,35.0,0,0,9232,7.75,,Q,,,
+third,no,McMahon. Mr. Martin,male,,0,0,370372,7.75,,Q,,,
+third,no,McNamee. Mr. Neal,male,24.0,1,0,376566,16.1,,S,,,
+third,no,McNamee. Mrs. Neal (Eileen OLeary),female,19.0,1,0,376566,16.1,,S,,53.0,
+third,no,McNeill. Miss. Bridget,female,,0,0,370368,7.75,,Q,,,
+third,no,Meanwell. Miss. (Marion Ogden),female,,0,0,SOTON/O.Q. 392087,8.05,,S,,,
+third,no,Meek. Mrs. Thomas (Annie Louise Rowley),female,,0,0,343095,8.05,,S,,,
+third,no,Meo. Mr. Alfonzo,male,55.5,0,0,A.5. 11206,8.05,,S,,201.0,
+third,no,Mernagh. Mr. Robert,male,,0,0,368703,7.75,,Q,,,
+third,yes,Midtsjo. Mr. Karl Albert,male,21.0,0,0,345501,7.775,,S,15,,
+third,no,Miles. Mr. Frank,male,,0,0,359306,8.05,,S,,,
+third,no,Mineff. Mr. Ivan,male,24.0,0,0,349233,7.8958,,S,,,
+third,no,Minkoff. Mr. Lazar,male,21.0,0,0,349211,7.8958,,S,,,
+third,no,Mionoff. Mr. Stoytcho,male,28.0,0,0,349207,7.8958,,S,,,
+third,no,Mitkoff. Mr. Mito,male,,0,0,349221,7.8958,,S,,,
+third,yes,Mockler. Miss. Helen Mary Ellie,female,,0,0,330980,7.8792,,Q,16,,
+third,no,Moen. Mr. Sigurd Hansen,male,25.0,0,0,348123,7.65,F G73,S,,309.0,
+third,yes,Moor. Master. Meier,male,6.0,0,1,392096,12.475,E121,S,14,,
+third,yes,Moor. Mrs. (Beila),female,27.0,0,1,392096,12.475,E121,S,14,,
+third,no,Moore. Mr. Leonard Charles,male,,0,0,A4. 54510,8.05,,S,,,
+third,yes,Moran. Miss. Bertha,female,,1,0,371110,24.15,,Q,16,,
+third,no,Moran. Mr. Daniel J,male,,1,0,371110,24.15,,Q,,,
+third,no,Moran. Mr. James,male,,0,0,330877,8.4583,,Q,,,
+third,no,Morley. Mr. William,male,34.0,0,0,364506,8.05,,S,,,
+third,no,Morrow. Mr. Thomas Rowan,male,,0,0,372622,7.75,,Q,,,
+third,yes,Moss. Mr. Albert Johan,male,,0,0,312991,7.775,,S,B,,
+third,yes,Moubarek. Master. Gerios,male,,1,1,2661,15.2458,,C,C,,
+third,yes,Moubarek. Master. Halim Gonios (William George),male,,1,1,2661,15.2458,,C,C,,
+third,yes,Moubarek. Mrs. George (Omine Amenia Alexander),female,,0,2,2661,15.2458,,C,C,,
+third,yes,Moussa. Mrs. (Mantoura Boulos),female,,0,0,2626,7.2292,,C,,,
+third,no,Moutal. Mr. Rahamin Haim,male,,0,0,374746,8.05,,S,,,
+third,yes,Mullens. Miss. Katherine Katie,female,,0,0,35852,7.7333,,Q,16,,
+third,yes,Mulvihill. Miss. Bertha E,female,24.0,0,0,382653,7.75,,Q,15,,
+third,no,Murdlin. Mr. Joseph,male,,0,0,A./5. 3235,8.05,,S,,,
+third,yes,Murphy. Miss. Katherine Kate,female,,1,0,367230,15.5,,Q,16,,
+third,yes,Murphy. Miss. Margaret Jane,female,,1,0,367230,15.5,,Q,16,,
+third,yes,Murphy. Miss. Nora,female,,0,0,36568,15.5,,Q,16,,
+third,no,Myhrman. Mr. Pehr Fabian Oliver Malkolm,male,18.0,0,0,347078,7.75,,S,,,
+third,no,Naidenoff. Mr. Penko,male,22.0,0,0,349206,7.8958,,S,,,
+third,yes,Najib. Miss. Adele Kiamie Jane,female,15.0,0,0,2667,7.225,,C,C,,
+third,yes,Nakid. Miss. Maria (Mary),female,1.0,0,2,2653,15.7417,,C,C,,
+third,yes,Nakid. Mr. Sahid,male,20.0,1,1,2653,15.7417,,C,C,,
+third,yes,Nakid. Mrs. Said (Waika Mary Mowad),female,19.0,1,1,2653,15.7417,,C,C,,
+third,no,Nancarrow. Mr. William Henry,male,33.0,0,0,A./5. 3338,8.05,,S,,,
+third,no,Nankoff. Mr. Minko,male,,0,0,349218,7.8958,,S,,,
+third,no,Nasr. Mr. Mustafa,male,,0,0,2652,7.2292,,C,,,
+third,no,Naughton. Miss. Hannah,female,,0,0,365237,7.75,,Q,,,
+third,no,Nenkoff. Mr. Christo,male,,0,0,349234,7.8958,,S,,,
+third,yes,Nicola-Yarred. Master. Elias,male,12.0,1,0,2651,11.2417,,C,C,,
+third,yes,Nicola-Yarred. Miss. Jamila,female,14.0,1,0,2651,11.2417,,C,C,,
+third,no,Nieminen. Miss. Manta Josefina,female,29.0,0,0,3101297,7.925,,S,,,
+third,no,Niklasson. Mr. Samuel,male,28.0,0,0,363611,8.05,,S,,,
+third,yes,Nilsson. Miss. Berta Olivia,female,18.0,0,0,347066,7.775,,S,D,,
+third,yes,Nilsson. Miss. Helmina Josefina,female,26.0,0,0,347470,7.8542,,S,13,,
+third,no,Nilsson. Mr. August Ferdinand,male,21.0,0,0,350410,7.8542,,S,,,
+third,no,Nirva. Mr. Iisakki Antino Aijo,male,41.0,0,0,SOTON/O2 3101272,7.125,,S,,,Finland Sudbury. ON
+third,yes,Niskanen. Mr. Juha,male,39.0,0,0,STON/O 2. 3101289,7.925,,S,9,,
+third,no,Nosworthy. Mr. Richard Cater,male,21.0,0,0,A/4. 39886,7.8,,S,,,
+third,no,Novel. Mr. Mansouer,male,28.5,0,0,2697,7.2292,,C,,181.0,
+third,yes,Nysten. Miss. Anna Sofia,female,22.0,0,0,347081,7.75,,S,13,,
+third,no,Nysveen. Mr. Johan Hansen,male,61.0,0,0,345364,6.2375,,S,,,
+third,no,OBrien. Mr. Thomas,male,,1,0,370365,15.5,,Q,,,
+third,no,OBrien. Mr. Timothy,male,,0,0,330979,7.8292,,Q,,,
+third,yes,OBrien. Mrs. Thomas (Johanna Hannah Godfrey),female,,1,0,370365,15.5,,Q,,,
+third,no,OConnell. Mr. Patrick D,male,,0,0,334912,7.7333,,Q,,,
+third,no,OConnor. Mr. Maurice,male,,0,0,371060,7.75,,Q,,,
+third,no,OConnor. Mr. Patrick,male,,0,0,366713,7.75,,Q,,,
+third,no,Odahl. Mr. Nils Martin,male,23.0,0,0,7267,9.225,,S,,,
+third,no,ODonoghue. Ms. Bridget,female,,0,0,364856,7.75,,Q,,,
+third,yes,ODriscoll. Miss. Bridget,female,,0,0,14311,7.75,,Q,D,,
+third,yes,ODwyer. Miss. Ellen Nellie,female,,0,0,330959,7.8792,,Q,,,
+third,yes,Ohman. Miss. Velin,female,22.0,0,0,347085,7.775,,S,C,,
+third,yes,OKeefe. Mr. Patrick,male,,0,0,368402,7.75,,Q,B,,
+third,yes,OLeary. Miss. Hanora Norah,female,,0,0,330919,7.8292,,Q,13,,
+third,yes,Olsen. Master. Artur Karl,male,9.0,0,1,C 17368,3.1708,,S,13,,
+third,no,Olsen. Mr. Henry Margido,male,28.0,0,0,C 4001,22.525,,S,,173.0,
+third,no,Olsen. Mr. Karl Siegwart Andreas,male,42.0,0,1,4579,8.4042,,S,,,
+third,no,Olsen. Mr. Ole Martin,male,,0,0,Fa 265302,7.3125,,S,,,
+third,no,Olsson. Miss. Elina,female,31.0,0,0,350407,7.8542,,S,,,
+third,no,Olsson. Mr. Nils Johan Goransson,male,28.0,0,0,347464,7.8542,,S,,,
+third,yes,Olsson. Mr. Oscar Wilhelm,male,32.0,0,0,347079,7.775,,S,A,,
+third,no,Olsvigen. Mr. Thor Anderson,male,20.0,0,0,6563,9.225,,S,,89.0,Oslo. Norway Cameron. WI
+third,no,Oreskovic. Miss. Jelka,female,23.0,0,0,315085,8.6625,,S,,,
+third,no,Oreskovic. Miss. Marija,female,20.0,0,0,315096,8.6625,,S,,,
+third,no,Oreskovic. Mr. Luka,male,20.0,0,0,315094,8.6625,,S,,,
+third,no,Osen. Mr. Olaf Elon,male,16.0,0,0,7534,9.2167,,S,,,
+third,yes,Osman. Mrs. Mara,female,31.0,0,0,349244,8.6833,,S,,,
+third,no,OSullivan. Miss. Bridget Mary,female,,0,0,330909,7.6292,,Q,,,
+third,no,Palsson. Master. Gosta Leonard,male,2.0,3,1,349909,21.075,,S,,4.0,
+third,no,Palsson. Master. Paul Folke,male,6.0,3,1,349909,21.075,,S,,,
+third,no,Palsson. Miss. Stina Viola,female,3.0,3,1,349909,21.075,,S,,,
+third,no,Palsson. Miss. Torborg Danira,female,8.0,3,1,349909,21.075,,S,,,
+third,no,Palsson. Mrs. Nils (Alma Cornelia Berglund),female,29.0,0,4,349909,21.075,,S,,206.0,
+third,no,Panula. Master. Eino Viljami,male,1.0,4,1,3101295,39.6875,,S,,,
+third,no,Panula. Master. Juha Niilo,male,7.0,4,1,3101295,39.6875,,S,,,
+third,no,Panula. Master. Urho Abraham,male,2.0,4,1,3101295,39.6875,,S,,,
+third,no,Panula. Mr. Ernesti Arvid,male,16.0,4,1,3101295,39.6875,,S,,,
+third,no,Panula. Mr. Jaako Arnold,male,14.0,4,1,3101295,39.6875,,S,,,
+third,no,Panula. Mrs. Juha (Maria Emilia Ojala),female,41.0,0,5,3101295,39.6875,,S,,,
+third,no,Pasic. Mr. Jakob,male,21.0,0,0,315097,8.6625,,S,,,
+third,no,Patchett. Mr. George,male,19.0,0,0,358585,14.5,,S,,,
+third,no,Paulner. Mr. Uscher,male,,0,0,3411,8.7125,,C,,,
+third,no,Pavlovic. Mr. Stefo,male,32.0,0,0,349242,7.8958,,S,,,
+third,no,Peacock. Master. Alfred Edward,male,0.75,1,1,SOTON/O.Q. 3101315,13.775,,S,,,
+third,no,Peacock. Miss. Treasteall,female,3.0,1,1,SOTON/O.Q. 3101315,13.775,,S,,,
+third,no,Peacock. Mrs. Benjamin (Edith Nile),female,26.0,0,2,SOTON/O.Q. 3101315,13.775,,S,,,
+third,no,Pearce. Mr. Ernest,male,,0,0,343271,7.0,,S,,,
+third,no,Pedersen. Mr. Olaf,male,,0,0,345498,7.775,,S,,,
+third,no,Peduzzi. Mr. Joseph,male,,0,0,A/5 2817,8.05,,S,,,
+third,no,Pekoniemi. Mr. Edvard,male,21.0,0,0,STON/O 2. 3101294,7.925,,S,,,
+third,no,Peltomaki. Mr. Nikolai Johannes,male,25.0,0,0,STON/O 2. 3101291,7.925,,S,,,
+third,no,Perkin. Mr. John Henry,male,22.0,0,0,A/5 21174,7.25,,S,,,
+third,yes,Persson. Mr. Ernst Ulrik,male,25.0,1,0,347083,7.775,,S,15,,
+third,yes,Peter. Master. Michael J,male,,1,1,2668,22.3583,,C,C,,
+third,yes,Peter. Miss. Anna,female,,1,1,2668,22.3583,F E69,C,D,,
+third,yes,Peter. Mrs. Catherine (Catherine Rizk),female,,0,2,2668,22.3583,,C,D,,
+third,no,Peters. Miss. Katie,female,,0,0,330935,8.1375,,Q,,,
+third,no,Petersen. Mr. Marius,male,24.0,0,0,342441,8.05,,S,,,
+third,no,Petranec. Miss. Matilda,female,28.0,0,0,349245,7.8958,,S,,,
+third,no,Petroff. Mr. Nedelio,male,19.0,0,0,349212,7.8958,,S,,,
+third,no,Petroff. Mr. Pastcho (Pentcho),male,,0,0,349215,7.8958,,S,,,
+third,no,Petterson. Mr. Johan Emil,male,25.0,1,0,347076,7.775,,S,,,
+third,no,Pettersson. Miss. Ellen Natalia,female,18.0,0,0,347087,7.775,,S,,,
+third,yes,Pickard. Mr. Berk (Berk Trembisky),male,32.0,0,0,SOTON/O.Q. 392078,8.05,E10,S,9,,
+third,no,Plotcharsky. Mr. Vasil,male,,0,0,349227,7.8958,,S,,,
+third,no,Pokrnic. Mr. Mate,male,17.0,0,0,315095,8.6625,,S,,,
+third,no,Pokrnic. Mr. Tome,male,24.0,0,0,315092,8.6625,,S,,,
+third,no,Radeff. Mr. Alexander,male,,0,0,349223,7.8958,,S,,,
+third,no,Rasmussen. Mrs. (Lena Jacobsen Solvang),female,,0,0,65305,8.1125,,S,,,
+third,no,Razi. Mr. Raihed,male,,0,0,2629,7.2292,,C,,,
+third,no,Reed. Mr. James George,male,,0,0,362316,7.25,,S,,,
+third,no,Rekic. Mr. Tido,male,38.0,0,0,349249,7.8958,,S,,,
+third,no,Reynolds. Mr. Harold J,male,21.0,0,0,342684,8.05,,S,,,
+third,no,Rice. Master. Albert,male,10.0,4,1,382652,29.125,,Q,,,
+third,no,Rice. Master. Arthur,male,4.0,4,1,382652,29.125,,Q,,,
+third,no,Rice. Master. Eric,male,7.0,4,1,382652,29.125,,Q,,,
+third,no,Rice. Master. Eugene,male,2.0,4,1,382652,29.125,,Q,,,
+third,no,Rice. Master. George Hugh,male,8.0,4,1,382652,29.125,,Q,,,
+third,no,Rice. Mrs. William (Margaret Norton),female,39.0,0,5,382652,29.125,,Q,,327.0,
+third,no,Riihivouri. Miss. Susanna Juhantytar Sanni,female,22.0,0,0,3101295,39.6875,,S,,,
+third,no,Rintamaki. Mr. Matti,male,35.0,0,0,STON/O 2. 3101273,7.125,,S,,,
+third,yes,Riordan. Miss. Johanna Hannah,female,,0,0,334915,7.7208,,Q,13,,
+third,no,Risien. Mr. Samuel Beard,male,,0,0,364498,14.5,,S,,,
+third,no,Risien. Mrs. Samuel (Emma),female,,0,0,364498,14.5,,S,,,
+third,no,Robins. Mr. Alexander A,male,50.0,1,0,A/5. 3337,14.5,,S,,119.0,
+third,no,Robins. Mrs. Alexander A (Grace Charity Laury),female,47.0,1,0,A/5. 3337,14.5,,S,,7.0,
+third,no,Rogers. Mr. William John,male,,0,0,S.C./A.4. 23567,8.05,,S,,,
+third,no,Rommetvedt. Mr. Knud Paust,male,,0,0,312993,7.775,,S,,,
+third,no,Rosblom. Miss. Salli Helena,female,2.0,1,1,370129,20.2125,,S,,,
+third,no,Rosblom. Mr. Viktor Richard,male,18.0,1,1,370129,20.2125,,S,,,
+third,no,Rosblom. Mrs. Viktor (Helena Wilhelmina),female,41.0,0,2,370129,20.2125,,S,,,
+third,yes,Roth. Miss. Sarah A,female,,0,0,342712,8.05,,S,C,,
+third,no,Rouse. Mr. Richard Henry,male,50.0,0,0,A/5 3594,8.05,,S,,,
+third,no,Rush. Mr. Alfred George John,male,16.0,0,0,A/4. 20589,8.05,,S,,,
+third,yes,Ryan. Mr. Edward,male,,0,0,383162,7.75,,Q,14,,
+third,no,Ryan. Mr. Patrick,male,,0,0,371110,24.15,,Q,,,
+third,no,Saad. Mr. Amin,male,,0,0,2671,7.2292,,C,,,
+third,no,Saad. Mr. Khalil,male,25.0,0,0,2672,7.225,,C,,,
+third,no,Saade. Mr. Jean Nassr,male,,0,0,2676,7.225,,C,,,
+third,no,Sadlier. Mr. Matthew,male,,0,0,367655,7.7292,,Q,,,
+third,no,Sadowitz. Mr. Harry,male,,0,0,LP 1588,7.575,,S,,,
+third,no,Saether. Mr. Simon Sivertsen,male,38.5,0,0,SOTON/O.Q. 3101262,7.25,,S,,32.0,
+third,no,Sage. Master. Thomas Henry,male,,8,2,CA. 2343,69.55,,S,,,
+third,no,Sage. Master. William Henry,male,14.5,8,2,CA. 2343,69.55,,S,,67.0,
+third,no,Sage. Miss. Ada,female,,8,2,CA. 2343,69.55,,S,,,
+third,no,Sage. Miss. Constance Gladys,female,,8,2,CA. 2343,69.55,,S,,,
+third,no,Sage. Miss. Dorothy Edith Dolly,female,,8,2,CA. 2343,69.55,,S,,,
+third,no,Sage. Miss. Stella Anna,female,,8,2,CA. 2343,69.55,,S,,,
+third,no,Sage. Mr. Douglas Bullen,male,,8,2,CA. 2343,69.55,,S,,,
+third,no,Sage. Mr. Frederick,male,,8,2,CA. 2343,69.55,,S,,,
+third,no,Sage. Mr. George John Jr,male,,8,2,CA. 2343,69.55,,S,,,
+third,no,Sage. Mr. John George,male,,1,9,CA. 2343,69.55,,S,,,
+third,no,Sage. Mrs. John (Annie Bullen),female,,1,9,CA. 2343,69.55,,S,,,
+third,no,Salander. Mr. Karl Johan,male,24.0,0,0,7266,9.325,,S,,,
+third,yes,Salkjelsvik. Miss. Anna Kristine,female,21.0,0,0,343120,7.65,,S,C,,
+third,no,Salonen. Mr. Johan Werner,male,39.0,0,0,3101296,7.925,,S,,,
+third,no,Samaan. Mr. Elias,male,,2,0,2662,21.6792,,C,,,
+third,no,Samaan. Mr. Hanna,male,,2,0,2662,21.6792,,C,,,
+third,no,Samaan. Mr. Youssef,male,,2,0,2662,21.6792,,C,,,
+third,yes,Sandstrom. Miss. Beatrice Irene,female,1.0,1,1,PP 9549,16.7,G6,S,13,,
+third,yes,Sandstrom. Mrs. Hjalmar (Agnes Charlotta Bengtsson),female,24.0,0,2,PP 9549,16.7,G6,S,13,,
+third,yes,Sandstrom. Miss. Marguerite Rut,female,4.0,1,1,PP 9549,16.7,G6,S,13,,
+third,yes,Sap. Mr. Julius,male,25.0,0,0,345768,9.5,,S,11,,
+third,no,Saundercock. Mr. William Henry,male,20.0,0,0,A/5. 2151,8.05,,S,,,
+third,no,Sawyer. Mr. Frederick Charles,male,24.5,0,0,342826,8.05,,S,,284.0,
+third,no,Scanlan. Mr. James,male,,0,0,36209,7.725,,Q,,,
+third,no,Sdycoff. Mr. Todor,male,,0,0,349222,7.8958,,S,,,
+third,no,Shaughnessy. Mr. Patrick,male,,0,0,370374,7.75,,Q,,,
+third,yes,Sheerlinck. Mr. Jan Baptist,male,29.0,0,0,345779,9.5,,S,11,,
+third,no,Shellard. Mr. Frederick William,male,,0,0,C.A. 6212,15.1,,S,,,
+third,yes,Shine. Miss. Ellen Natalia,female,,0,0,330968,7.7792,,Q,,,
+third,no,Shorney. Mr. Charles Joseph,male,,0,0,374910,8.05,,S,,,
+third,no,Simmons. Mr. John,male,,0,0,SOTON/OQ 392082,8.05,,S,,,
+third,no,Sirayanian. Mr. Orsen,male,22.0,0,0,2669,7.2292,,C,,,
+third,no,Sirota. Mr. Maurice,male,,0,0,392092,8.05,,S,,,
+third,no,Sivic. Mr. Husein,male,40.0,0,0,349251,7.8958,,S,,,
+third,no,Sivola. Mr. Antti Wilhelm,male,21.0,0,0,STON/O 2. 3101280,7.925,,S,,,
+third,yes,Sjoblom. Miss. Anna Sofia,female,18.0,0,0,3101265,7.4958,,S,16,,
+third,no,Skoog. Master. Harald,male,4.0,3,2,347088,27.9,,S,,,
+third,no,Skoog. Master. Karl Thorsten,male,10.0,3,2,347088,27.9,,S,,,
+third,no,Skoog. Miss. Mabel,female,9.0,3,2,347088,27.9,,S,,,
+third,no,Skoog. Miss. Margit Elizabeth,female,2.0,3,2,347088,27.9,,S,,,
+third,no,Skoog. Mr. Wilhelm,male,40.0,1,4,347088,27.9,,S,,,
+third,no,Skoog. Mrs. William (Anna Bernhardina Karlsson),female,45.0,1,4,347088,27.9,,S,,,
+third,no,Slabenoff. Mr. Petco,male,,0,0,349214,7.8958,,S,,,
+third,no,Slocovski. Mr. Selman Francis,male,,0,0,SOTON/OQ 392086,8.05,,S,,,
+third,no,Smiljanic. Mr. Mile,male,,0,0,315037,8.6625,,S,,,
+third,no,Smith. Mr. Thomas,male,,0,0,384461,7.75,,Q,,,
+third,yes,Smyth. Miss. Julia,female,,0,0,335432,7.7333,,Q,13,,
+third,no,Soholt. Mr. Peter Andreas Lauritz Andersen,male,19.0,0,0,348124,7.65,F G73,S,,,
+third,no,Somerton. Mr. Francis William,male,30.0,0,0,A.5. 18509,8.05,,S,,,
+third,no,Spector. Mr. Woolf,male,,0,0,A.5. 3236,8.05,,S,,,
+third,no,Spinner. Mr. Henry John,male,32.0,0,0,STON/OQ. 369943,8.05,,S,,,
+third,no,Staneff. Mr. Ivan,male,,0,0,349208,7.8958,,S,,,
+third,no,Stankovic. Mr. Ivan,male,33.0,0,0,349239,8.6625,,C,,,
+third,yes,Stanley. Miss. Amy Zillah Elsie,female,23.0,0,0,CA. 2314,7.55,,S,C,,
+third,no,Stanley. Mr. Edward Roland,male,21.0,0,0,A/4 45380,8.05,,S,,,
+third,no,Storey. Mr. Thomas,male,60.5,0,0,3701,,,S,,261.0,
+third,no,Stoytcheff. Mr. Ilia,male,19.0,0,0,349205,7.8958,,S,,,
+third,no,Strandberg. Miss. Ida Sofia,female,22.0,0,0,7553,9.8375,,S,,,
+third,yes,Stranden. Mr. Juho,male,31.0,0,0,STON/O 2. 3101288,7.925,,S,9,,
+third,no,Strilic. Mr. Ivan,male,27.0,0,0,315083,8.6625,,S,,,
+third,no,Strom. Miss. Telma Matilda,female,2.0,0,1,347054,10.4625,G6,S,,,
+third,no,Strom. Mrs. Wilhelm (Elna Matilda Persson),female,29.0,1,1,347054,10.4625,G6,S,,,
+third,yes,Sunderland. Mr. Victor Francis,male,16.0,0,0,SOTON/OQ 392089,8.05,,S,B,,
+third,yes,Sundman. Mr. Johan Julian,male,44.0,0,0,STON/O 2. 3101269,7.925,,S,15,,
+third,no,Sutehall. Mr. Henry Jr,male,25.0,0,0,SOTON/OQ 392076,7.05,,S,,,
+third,no,Svensson. Mr. Johan,male,74.0,0,0,347060,7.775,,S,,,
+third,yes,Svensson. Mr. Johan Cervin,male,14.0,0,0,7538,9.225,,S,13,,
+third,no,Svensson. Mr. Olof,male,24.0,0,0,350035,7.7958,,S,,,
+third,yes,Tenglin. Mr. Gunnar Isidor,male,25.0,0,0,350033,7.7958,,S,13 15,,
+third,no,Theobald. Mr. Thomas Leonard,male,34.0,0,0,363294,8.05,,S,,176.0,
+third,yes,Thomas. Master. Assad Alexander,male,0.4167,0,1,2625,8.5167,,C,16,,
+third,no,Thomas. Mr. Charles P,male,,1,0,2621,6.4375,,C,,,
+third,no,Thomas. Mr. John,male,,0,0,2681,6.4375,,C,,,
+third,no,Thomas. Mr. Tannous,male,,0,0,2684,7.225,,C,,,
+third,yes,Thomas. Mrs. Alexander (Thamine Thelma),female,16.0,1,1,2625,8.5167,,C,14,,
+third,no,Thomson. Mr. Alexander Morrison,male,,0,0,32302,8.05,,S,,,
+third,no,Thorneycroft. Mr. Percival,male,,1,0,376564,16.1,,S,,,
+third,yes,Thorneycroft. Mrs. Percival (Florence Kate White),female,,1,0,376564,16.1,,S,10,,
+third,no,Tikkanen. Mr. Juho,male,32.0,0,0,STON/O 2. 3101293,7.925,,S,,,
+third,no,Tobin. Mr. Roger,male,,0,0,383121,7.75,F38,Q,,,
+third,no,Todoroff. Mr. Lalio,male,,0,0,349216,7.8958,,S,,,
+third,no,Tomlin. Mr. Ernest Portage,male,30.5,0,0,364499,8.05,,S,,50.0,
+third,no,Torber. Mr. Ernst William,male,44.0,0,0,364511,8.05,,S,,,
+third,no,Torfa. Mr. Assad,male,,0,0,2673,7.2292,,C,,,
+third,yes,Tornquist. Mr. William Henry,male,25.0,0,0,LINE,0.0,,S,15,,
+third,no,Toufik. Mr. Nakli,male,,0,0,2641,7.2292,,C,,,
+third,yes,Touma. Master. Georges Youssef,male,7.0,1,1,2650,15.2458,,C,C,,
+third,yes,Touma. Miss. Maria Youssef,female,9.0,1,1,2650,15.2458,,C,C,,
+third,yes,Touma. Mrs. Darwis (Hanne Youssef Razi),female,29.0,0,2,2650,15.2458,,C,C,,
+third,no,Turcin. Mr. Stjepan,male,36.0,0,0,349247,7.8958,,S,,,
+third,yes,Turja. Miss. Anna Sofia,female,18.0,0,0,4138,9.8417,,S,15,,
+third,yes,Turkula. Mrs. (Hedwig),female,63.0,0,0,4134,9.5875,,S,15,,
+third,no,van Billiard. Master. James William,male,,1,1,A/5. 851,14.5,,S,,,
+third,no,van Billiard. Master. Walter John,male,11.5,1,1,A/5. 851,14.5,,S,,1.0,
+third,no,van Billiard. Mr. Austin Blyler,male,40.5,0,2,A/5. 851,14.5,,S,,255.0,
+third,no,Van Impe. Miss. Catharina,female,10.0,0,2,345773,24.15,,S,,,
+third,no,Van Impe. Mr. Jean Baptiste,male,36.0,1,1,345773,24.15,,S,,,
+third,no,Van Impe. Mrs. Jean Baptiste (Rosalie Paula Govaert),female,30.0,1,1,345773,24.15,,S,,,
+third,no,van Melkebeke. Mr. Philemon,male,,0,0,345777,9.5,,S,,,
+third,no,Vande Velde. Mr. Johannes Joseph,male,33.0,0,0,345780,9.5,,S,,,
+third,no,Vande Walle. Mr. Nestor Cyriel,male,28.0,0,0,345770,9.5,,S,,,
+third,no,Vanden Steen. Mr. Leo Peter,male,28.0,0,0,345783,9.5,,S,,,
+third,no,Vander Cruyssen. Mr. Victor,male,47.0,0,0,345765,9.0,,S,,,
+third,no,Vander Planke. Miss. Augusta Maria,female,18.0,2,0,345764,18.0,,S,,,
+third,no,Vander Planke. Mr. Julius,male,31.0,3,0,345763,18.0,,S,,,
+third,no,Vander Planke. Mr. Leo Edmondus,male,16.0,2,0,345764,18.0,,S,,,
+third,no,Vander Planke. Mrs. Julius (Emelia Maria Vandemoortele),female,31.0,1,0,345763,18.0,,S,,,
+third,yes,Vartanian. Mr. David,male,22.0,0,0,2658,7.225,,C,13 15,,
+third,no,Vendel. Mr. Olof Edvin,male,20.0,0,0,350416,7.8542,,S,,,
+third,no,Vestrom. Miss. Hulda Amanda Adolfina,female,14.0,0,0,350406,7.8542,,S,,,
+third,no,Vovk. Mr. Janko,male,22.0,0,0,349252,7.8958,,S,,,
+third,no,Waelens. Mr. Achille,male,22.0,0,0,345767,9.0,,S,,,Antwerp. Belgium / Stanton. OH
+third,no,Ware. Mr. Frederick,male,,0,0,359309,8.05,,S,,,
+third,no,Warren. Mr. Charles William,male,,0,0,C.A. 49867,7.55,,S,,,
+third,no,Webber. Mr. James,male,,0,0,SOTON/OQ 3101316,8.05,,S,,,
+third,no,Wenzel. Mr. Linhart,male,32.5,0,0,345775,9.5,,S,,298.0,
+third,yes,Whabee. Mrs. George Joseph (Shawneene Abi-Saab),female,38.0,0,0,2688,7.2292,,C,C,,
+third,no,Widegren. Mr. Carl/Charles Peter,male,51.0,0,0,347064,7.75,,S,,,
+third,no,Wiklund. Mr. Jakob Alfred,male,18.0,1,0,3101267,6.4958,,S,,314.0,
+third,no,Wiklund. Mr. Karl Johan,male,21.0,1,0,3101266,6.4958,,S,,,
+third,yes,Wilkes. Mrs. James (Ellen Needs),female,47.0,1,0,363272,7.0,,S,,,
+third,no,Willer. Mr. Aaron (Abi Weller),male,,0,0,3410,8.7125,,S,,,
+third,no,Willey. Mr. Edward,male,,0,0,S.O./P.P. 751,7.55,,S,,,
+third,no,Williams. Mr. Howard Hugh Harry,male,,0,0,A/5 2466,8.05,,S,,,
+third,no,Williams. Mr. Leslie,male,28.5,0,0,54636,16.1,,S,,14.0,
+third,no,Windelov. Mr. Einar,male,21.0,0,0,SOTON/OQ 3101317,7.25,,S,,,
+third,no,Wirz. Mr. Albert,male,27.0,0,0,315154,8.6625,,S,,131.0,
+third,no,Wiseman. Mr. Phillippe,male,,0,0,A/4. 34244,7.25,,S,,,
+third,no,Wittevrongel. Mr. Camille,male,36.0,0,0,345771,9.5,,S,,,
+third,no,Yasbeck. Mr. Antoni,male,27.0,1,0,2659,14.4542,,C,C,,
+third,yes,Yasbeck. Mrs. Antoni (Selini Alexander),female,15.0,1,0,2659,14.4542,,C,,,
+third,no,Youseff. Mr. Gerious,male,45.5,0,0,2628,7.225,,C,,312.0,
+third,no,Yousif. Mr. Wazli,male,,0,0,2647,7.225,,C,,,
+third,no,Yousseff. Mr. Gerious,male,,0,0,2627,14.4583,,C,,,
+third,no,Zabour. Miss. Hileni,female,14.5,1,0,2665,14.4542,,C,,328.0,
+third,no,Zabour. Miss. Thamine,female,,1,0,2665,14.4542,,C,,,
+third,no,Zakarian. Mr. Mapriededer,male,26.5,0,0,2656,7.225,,C,,304.0,
+third,no,Zakarian. Mr. Ortin,male,27.0,0,0,2670,7.225,,C,,,
+third,no,Zimmerman. Mr. Leo,male,29.0,0,0,315082,7.875,,S,,,

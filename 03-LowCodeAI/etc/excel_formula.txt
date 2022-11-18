@@ -1,0 +1,1 @@
+=LET(array;A1:C3; INDEX(array; ROUNDUP(SEQUENCE(ROWS(array)*COLUMNS(array))/COLUMNS(array);0); MOD(SEQUENCE(ROWS(array)*COLUMNS(array);;0);COLUMNS(array))+1))
